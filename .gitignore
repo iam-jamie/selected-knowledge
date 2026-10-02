@@ -1,0 +1,14 @@
+# 環境變數
+.env
+
+# 每一集底下的大型/可重新產生的檔案忽略
+# storyboard.json / prompts.txt / sfx_map.json 保留進版控（不忽略）
+episodes/*/images/
+episodes/*/sfx/*
+episodes/*/output/
+episodes/*/*.mp3
+episodes/*/*.mp4
+episodes/*/*.wav
+
+# 保留音效當初是哪裡抓的紀錄
+!episodes/*/sfx/fetch_report.json
