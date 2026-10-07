@@ -1,0 +1,3487 @@
+[
+  {
+    "scene_id": 1,
+    "start": 0,
+    "end": 2.766,
+    "duration": 2.766,
+    "text": "什麼樣的人高機率一事無成",
+    "image_prompt": "a young woman with short black hair in a navy (#1565C0) sweater with a puzzled face, a huge question mark above his head, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 0.166,
+        "end": 2.6,
+        "text": "什麼樣的人高機率一事無成"
+      }
+    ]
+  },
+  {
+    "scene_id": 2,
+    "start": 2.766,
+    "end": 5.933,
+    "duration": 3.167,
+    "text": "是班上成績總是吊車尾的那幾個",
+    "image_prompt": "a report card with a low red (#D32F2F) grade and a ranking list with a downward arrow, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 2.766,
+        "end": 5.8,
+        "text": "是班上成績總是吊車尾的那幾個"
+      }
+    ]
+  },
+  {
+    "scene_id": 3,
+    "start": 5.933,
+    "end": 7.333,
+    "duration": 1.4,
+    "text": "還是明知道在台灣",
+    "image_prompt": "a simple outline of Taiwan island with a location pin, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 5.933,
+        "end": 7.333,
+        "text": "還是明知道在台灣"
+      }
+    ]
+  },
+  {
+    "scene_id": 4,
+    "start": 7.333,
+    "end": 9.266,
+    "duration": 1.933,
+    "text": "當工程師或醫生賺的才多",
+    "image_prompt": "a gear and a stethoscope side by side with stacked gold (#FFC107) coins above them, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 7.333,
+        "end": 9.266,
+        "text": "當工程師或醫生賺的才多"
+      }
+    ]
+  },
+  {
+    "scene_id": 5,
+    "start": 9.266,
+    "end": 12.0,
+    "duration": 2.734,
+    "text": "但依然堅持大學要念文組的朋友",
+    "image_prompt": "a stack of literature books with a quill pen beside a graduation cap, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 9.266,
+        "end": 12.0,
+        "text": "但依然堅持大學要念文組的朋友"
+      }
+    ]
+  },
+  {
+    "scene_id": 6,
+    "start": 12.0,
+    "end": 14.333,
+    "duration": 2.333,
+    "text": "其實都不是",
+    "image_prompt": "a single huge red (#D32F2F) X mark, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "sfx_keyword": "wrong buzzer",
+    "sfx_type": "rhythm",
+    "sfx_offset": 1.93,
+    "cues": [
+      {
+        "start": 12.0,
+        "end": 14.0,
+        "text": "其實都不是"
+      }
+    ]
+  },
+  {
+    "scene_id": 7,
+    "start": 14.333,
+    "end": 16.4,
+    "duration": 2.067,
+    "text": "我查了一輪研究才發現",
+    "image_prompt": "a magnifying glass over a stack of research papers, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "sfx_keyword": "mouse click",
+    "sfx_type": "rhythm",
+    "cues": [
+      {
+        "start": 14.333,
+        "end": 16.366,
+        "text": "我查了一輪研究才發現"
+      }
+    ]
+  },
+  {
+    "scene_id": 8,
+    "start": 16.4,
+    "end": 18.5,
+    "duration": 2.1,
+    "text": "一個人會不會一事無成",
+    "image_prompt": "a young woman with short black hair in a navy (#1565C0) sweater staring at an empty blank sheet of paper with a question mark, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 16.4,
+        "end": 18.366,
+        "text": "一個人會不會一事無成"
+      }
+    ]
+  },
+  {
+    "scene_id": 9,
+    "start": 18.5,
+    "end": 19.9,
+    "duration": 1.4,
+    "text": "跟聰不聰明",
+    "image_prompt": "a dim lightbulb beside a big question mark, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 18.5,
+        "end": 19.866,
+        "text": "跟聰不聰明"
+      }
+    ]
+  },
+  {
+    "scene_id": 10,
+    "start": 19.9,
+    "end": 22.4,
+    "duration": 2.5,
+    "text": "選哪個職業根本沒有關係",
+    "image_prompt": "a balance scale holding a briefcase and a stethoscope, both marked with red (#D32F2F) X, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 19.9,
+        "end": 22.1,
+        "text": "選哪個職業根本沒有關係"
+      }
+    ]
+  },
+  {
+    "scene_id": 11,
+    "start": 22.4,
+    "end": 23.066,
+    "duration": 0.666,
+    "text": "這支影片",
+    "image_prompt": "a video play button icon, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 22.4,
+        "end": 23.066,
+        "text": "這支影片"
+      }
+    ]
+  },
+  {
+    "scene_id": 12,
+    "start": 23.066,
+    "end": 26.366,
+    "duration": 3.3,
+    "text": "會分析最容易一事無成的四種人",
+    "image_prompt": "four small identical figures in a row, each with a red (#D32F2F) X above its head, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "sfx_keyword": "mouse click",
+    "sfx_type": "rhythm",
+    "cues": [
+      {
+        "start": 23.066,
+        "end": 26.233,
+        "text": "會分析最容易一事無成的四種人"
+      }
+    ]
+  },
+  {
+    "scene_id": 13,
+    "start": 26.366,
+    "end": 28.933,
+    "duration": 2.567,
+    "text": "最後一種我看完資料以後",
+    "image_prompt": "the fourth figure in a row of four highlighted by a spotlight, a question mark above, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 26.366,
+        "end": 28.933,
+        "text": "最後一種我看完資料以後"
+      }
+    ]
+  },
+  {
+    "scene_id": 14,
+    "start": 28.933,
+    "end": 30.8,
+    "duration": 1.867,
+    "text": "背脊有點發涼",
+    "image_prompt": "a young woman with short black hair in a navy (#1565C0) sweater seen from behind with a shiver, cold sweat drops and goosebump lines on his back, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 28.933,
+        "end": 30.466,
+        "text": "背脊有點發涼"
+      }
+    ]
+  },
+  {
+    "scene_id": 15,
+    "start": 30.8,
+    "end": 32.0,
+    "duration": 1.2,
+    "text": "今天這支影片",
+    "image_prompt": "a video play button next to a film clapperboard, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "sfx_keyword": "mouse click",
+    "sfx_type": "rhythm",
+    "cues": [
+      {
+        "start": 30.8,
+        "end": 32.0,
+        "text": "今天這支影片"
+      }
+    ]
+  },
+  {
+    "scene_id": 16,
+    "start": 32.0,
+    "end": 34.1,
+    "duration": 2.1,
+    "text": "我會用到吉洛維奇的後悔跟",
+    "image_prompt": "a curved backward-looking arrow beside a sad face icon, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "sfx_keyword": "pop bright",
+    "sfx_type": "rhythm",
+    "sfx_offset": 1.7,
+    "cues": [
+      {
+        "start": 32.0,
+        "end": 34.1,
+        "text": "我會用到吉洛維奇的後悔跟"
+      }
+    ]
+  },
+  {
+    "scene_id": 17,
+    "start": 34.1,
+    "end": 35.5,
+    "duration": 1.4,
+    "text": "聚光燈研究",
+    "image_prompt": "a spotlight beam shining down on one lone small figure, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 34.1,
+        "end": 35.366,
+        "text": "聚光燈研究"
+      }
+    ]
+  },
+  {
+    "scene_id": 18,
+    "start": 35.5,
+    "end": 36.866,
+    "duration": 1.366,
+    "text": "紐約大學戈爾維",
+    "image_prompt": "a university building with tall pillars and a small flag, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 35.5,
+        "end": 36.866,
+        "text": "紐約大學戈爾維"
+      }
+    ]
+  },
+  {
+    "scene_id": 19,
+    "start": 36.866,
+    "end": 39.333,
+    "duration": 2.467,
+    "text": "策和厄廷根的行動研究",
+    "image_prompt": "a footprint path with an arrow pointing forward and a lightning bolt, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 36.866,
+        "end": 39.033,
+        "text": "策和厄廷根的行動研究"
+      }
+    ]
+  },
+  {
+    "scene_id": 20,
+    "start": 39.333,
+    "end": 41.933,
+    "duration": 2.6,
+    "text": "賓州大學達克沃絲的恆毅力",
+    "image_prompt": "a strong flexed arm with a mountain peak behind it, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "sfx_keyword": "ui click",
+    "sfx_type": "rhythm",
+    "sfx_offset": 2.2,
+    "cues": [
+      {
+        "start": 39.333,
+        "end": 41.633,
+        "text": "賓州大學達克沃絲的恆毅力"
+      }
+    ]
+  },
+  {
+    "scene_id": 21,
+    "start": 41.933,
+    "end": 44.5,
+    "duration": 2.567,
+    "text": "哥倫比亞大學艾恩嘉的選擇實驗",
+    "image_prompt": "a jar of jam beside a shopping basket, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 41.933,
+        "end": 44.5,
+        "text": "哥倫比亞大學艾恩嘉的選擇實驗"
+      }
+    ]
+  },
+  {
+    "scene_id": 22,
+    "start": 44.5,
+    "end": 47.3,
+    "duration": 2.8,
+    "text": "還有塞利格曼跟邁爾的實驗",
+    "image_prompt": "a sad dog lying down next to an electric lightning-bolt symbol, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 44.5,
+        "end": 46.8,
+        "text": "還有塞利格曼跟邁爾的實驗"
+      }
+    ]
+  },
+  {
+    "scene_id": 23,
+    "start": 47.3,
+    "end": 49.766,
+    "duration": 2.466,
+    "text": "最後我們一起把這四種人",
+    "image_prompt": "four small figures lined up in a row with an arrow pointing at them, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "sfx_keyword": "mouse click",
+    "sfx_type": "rhythm",
+    "cues": [
+      {
+        "start": 47.3,
+        "end": 49.766,
+        "text": "最後我們一起把這四種人"
+      }
+    ]
+  },
+  {
+    "scene_id": 24,
+    "start": 49.766,
+    "end": 51.566,
+    "duration": 1.8,
+    "text": "一個一個拆解",
+    "image_prompt": "a hand taking apart a stack of four building blocks one by one, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 49.766,
+        "end": 51.266,
+        "text": "一個一個拆解"
+      }
+    ]
+  },
+  {
+    "scene_id": 25,
+    "start": 51.566,
+    "end": 53.3,
+    "duration": 1.734,
+    "text": "先說第一種人",
+    "image_prompt": "a big orange (#EF6C00) number one beside a small flag, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "sfx_keyword": "keyboard",
+    "sfx_type": "rhythm",
+    "sfx_offset": 1.33,
+    "cues": [
+      {
+        "start": 51.566,
+        "end": 53.066,
+        "text": "先說第一種人"
+      }
+    ]
+  },
+  {
+    "scene_id": 26,
+    "start": 53.3,
+    "end": 54.733,
+    "duration": 1.433,
+    "text": "永遠在準備",
+    "image_prompt": "a giant to-do list with endless rows of empty checkboxes, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 53.3,
+        "end": 54.733,
+        "text": "永遠在準備"
+      }
+    ]
+  },
+  {
+    "scene_id": 27,
+    "start": 54.733,
+    "end": 56.366,
+    "duration": 1.633,
+    "text": "從來不開始",
+    "image_prompt": "a starting line on the ground with a pair of untied sneakers standing before it, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 54.733,
+        "end": 56.166,
+        "text": "從來不開始"
+      }
+    ]
+  },
+  {
+    "scene_id": 28,
+    "start": 56.366,
+    "end": 58.466,
+    "duration": 2.1,
+    "text": "你一定看過這種人",
+    "image_prompt": "a young woman with short black hair in a navy (#1565C0) sweater looking over his shoulder with a knowing smirk, arms crossed, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 56.366,
+        "end": 58.2,
+        "text": "你一定看過這種人"
+      }
+    ]
+  },
+  {
+    "scene_id": 29,
+    "start": 58.466,
+    "end": 60.466,
+    "duration": 2.0,
+    "text": "說不定就是你自己",
+    "image_prompt": "a young woman with short black hair in a navy (#1565C0) sweater looking into a mirror while his reflection looks back, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 58.466,
+        "end": 60.166,
+        "text": "說不定就是你自己"
+      }
+    ]
+  },
+  {
+    "scene_id": 30,
+    "start": 60.466,
+    "end": 65.166,
+    "duration": 4.7,
+    "text": "我必須承認，這一種我也中過，而且中得很深",
+    "image_prompt": "a young woman with short black hair in a navy (#1565C0) sweater sheepishly scratching his head and raising one hand, a deep hole at his feet, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "sfx_keyword": "cartoon boing",
+    "sfx_type": "rhythm",
+    "sfx_offset": 4.3,
+    "cues": [
+      {
+        "start": 60.466,
+        "end": 61.766,
+        "text": "我必須承認"
+      },
+      {
+        "start": 61.933,
+        "end": 63.333,
+        "text": "這一種我也中過"
+      },
+      {
+        "start": 63.333,
+        "end": 65.0,
+        "text": "而且中得很深"
+      }
+    ]
+  },
+  {
+    "scene_id": 31,
+    "start": 65.166,
+    "end": 71.333,
+    "duration": 6.167,
+    "text": "想做頻道先去買麥克風，買完又覺得應該先把剪輯軟體學好",
+    "image_prompt": "a microphone on a stand beside a laptop showing a video editing timeline, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 65.166,
+        "end": 67.366,
+        "text": "想做頻道先去買麥克風"
+      },
+      {
+        "start": 67.466,
+        "end": 71.3,
+        "text": "買完又覺得應該先把剪輯軟體學好"
+      }
+    ]
+  },
+  {
+    "scene_id": 32,
+    "start": 71.333,
+    "end": 76.0,
+    "duration": 4.667,
+    "text": "學到一半，發現好像要先看完，十支爆款影片的結構才行",
+    "image_prompt": "an open laptop with a grid of ten video clips and a magnifier over a structure diagram, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 71.333,
+        "end": 71.966,
+        "text": "學到一半"
+      },
+      {
+        "start": 71.966,
+        "end": 73.466,
+        "text": "發現好像要先看完"
+      },
+      {
+        "start": 73.466,
+        "end": 75.766,
+        "text": "十支爆款影片的結構才行"
+      }
+    ]
+  },
+  {
+    "scene_id": 33,
+    "start": 76.0,
+    "end": 82.3,
+    "duration": 6.3,
+    "text": "三個月過去，頻道連名字都還沒取，筆記倒是做了二十頁，而且超有成就感",
+    "image_prompt": "a notebook filled with twenty pages of scribbles beside a proud smiling checkmark and an empty name box, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 76.0,
+        "end": 76.933,
+        "text": "三個月過去"
+      },
+      {
+        "start": 76.933,
+        "end": 78.7,
+        "text": "頻道連名字都還沒取"
+      },
+      {
+        "start": 78.7,
+        "end": 80.5,
+        "text": "筆記倒是做了二十頁"
+      },
+      {
+        "start": 80.5,
+        "end": 82.2,
+        "text": "而且超有成就感"
+      }
+    ]
+  },
+  {
+    "scene_id": 34,
+    "start": 82.3,
+    "end": 87.066,
+    "duration": 4.766,
+    "text": "這種成就感，是假的健身也一樣",
+    "image_prompt": "a shiny gold (#FFC107) trophy that is cracked open and hollow, with a red (#D32F2F) X, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "sfx_keyword": "wrong buzzer",
+    "sfx_type": "rhythm",
+    "sfx_offset": 2.9,
+    "cues": [
+      {
+        "start": 82.3,
+        "end": 83.766,
+        "text": "這種成就感"
+      },
+      {
+        "start": 84.133,
+        "end": 86.866,
+        "text": "是假的健身也一樣"
+      }
+    ]
+  },
+  {
+    "scene_id": 35,
+    "start": 87.066,
+    "end": 93.6,
+    "duration": 6.534,
+    "text": "先買一整套運動服，再辦一張年卡，然後打算等下個月一號正式開始",
+    "image_prompt": "folded sportswear, a gym membership card and a dumbbell on the floor, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 87.066,
+        "end": 88.9,
+        "text": "先買一整套運動服"
+      },
+      {
+        "start": 88.9,
+        "end": 90.4,
+        "text": "再辦一張年卡"
+      },
+      {
+        "start": 90.4,
+        "end": 93.366,
+        "text": "然後打算等下個月一號正式開始"
+      }
+    ]
+  },
+  {
+    "scene_id": 36,
+    "start": 93.6,
+    "end": 98.366,
+    "duration": 4.766,
+    "text": "下個月一號到了，你會發現還有下下個月一號",
+    "image_prompt": "a wall calendar with the first day of next month circled in red (#D32F2F) and another month page peeking behind, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 93.6,
+        "end": 95.6,
+        "text": "下個月一號到了"
+      },
+      {
+        "start": 96.0,
+        "end": 98.233,
+        "text": "你會發現還有下下個月一號"
+      }
+    ]
+  },
+  {
+    "scene_id": 37,
+    "start": 98.366,
+    "end": 103.8,
+    "duration": 5.434,
+    "text": "每次準備到最後，總會冒出一個更合理的理由，叫做再等等",
+    "image_prompt": "an hourglass with sand falling beside a speech bubble with three dots, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 98.366,
+        "end": 99.9,
+        "text": "每次準備到最後"
+      },
+      {
+        "start": 99.9,
+        "end": 102.1,
+        "text": "總會冒出一個更合理的理由"
+      },
+      {
+        "start": 102.1,
+        "end": 103.466,
+        "text": "叫做再等等"
+      }
+    ]
+  },
+  {
+    "scene_id": 38,
+    "start": 103.8,
+    "end": 108.2,
+    "duration": 4.4,
+    "text": "考研究所考證照也一樣，先買全套參考書",
+    "image_prompt": "a graduation cap on a stack of thick reference books beside a certificate, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 103.8,
+        "end": 106.066,
+        "text": "考研究所考證照也一樣"
+      },
+      {
+        "start": 106.366,
+        "end": 108.2,
+        "text": "先買全套參考書"
+      }
+    ]
+  },
+  {
+    "scene_id": 39,
+    "start": 108.2,
+    "end": 112.466,
+    "duration": 4.266,
+    "text": "再排一張讀書計畫表，表格畫得比誰都漂亮",
+    "image_prompt": "a colorful study timetable grid beside an unopened book on its first page, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 108.2,
+        "end": 110.2,
+        "text": "再排一張讀書計畫表"
+      },
+      {
+        "start": 110.266,
+        "end": 112.366,
+        "text": "表格畫得比誰都漂亮"
+      }
+    ]
+  },
+  {
+    "scene_id": 40,
+    "start": 112.466,
+    "end": 116.4,
+    "duration": 3.934,
+    "text": "書還停在第一章，厄廷根教授是紐約大學的心",
+    "image_prompt": "a book with a bookmark stuck on its first page, a little dust cloud around it, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "sfx_keyword": "pop bright",
+    "sfx_type": "rhythm",
+    "sfx_offset": 3.53,
+    "cues": [
+      {
+        "start": 112.466,
+        "end": 114.1,
+        "text": "書還停在第一章"
+      },
+      {
+        "start": 114.4,
+        "end": 116.4,
+        "text": "厄廷根教授是紐約大學的心"
+      }
+    ]
+  },
+  {
+    "scene_id": 41,
+    "start": 116.4,
+    "end": 122.6,
+    "duration": 6.2,
+    "text": "理學家，花了很多年研究人怎麼想像未來，她發現一件很反直覺的事",
+    "image_prompt": "a thought bubble containing a glowing crystal ball showing a bright sunrise, a clipboard beside it, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 116.4,
+        "end": 117.3,
+        "text": "理學家"
+      },
+      {
+        "start": 117.333,
+        "end": 120.066,
+        "text": "花了很多年研究人怎麼想像未來"
+      },
+      {
+        "start": 120.066,
+        "end": 122.5,
+        "text": "她發現一件很反直覺的事"
+      }
+    ]
+  },
+  {
+    "scene_id": 42,
+    "start": 122.6,
+    "end": 128.3,
+    "duration": 5.7,
+    "text": "只顧著想像美好畫面的人，後來付出的努力比較少，成果也比較差",
+    "image_prompt": "a young woman with short black hair in a navy (#1565C0) sweater lying relaxed with arms behind his head, a thought bubble with a trophy and a nearly empty progress bar, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 122.6,
+        "end": 124.666,
+        "text": "只顧著想像美好畫面的人"
+      },
+      {
+        "start": 124.666,
+        "end": 126.5,
+        "text": "後來付出的努力比較少"
+      },
+      {
+        "start": 126.5,
+        "end": 127.866,
+        "text": "成果也比較差"
+      }
+    ]
+  },
+  {
+    "scene_id": 43,
+    "start": 128.3,
+    "end": 133.9,
+    "duration": 5.6,
+    "text": "她的解釋是，腦袋裡演完一遍成功的樣子，會先給你一種差不多了的感覺",
+    "image_prompt": "a young woman with short black hair in a navy (#1565C0) sweater leaning back in a chair with half-closed eyes, a green (#43A047) checkmark floating in his thought bubble, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 128.3,
+        "end": 129.5,
+        "text": "她的解釋是"
+      },
+      {
+        "start": 129.533,
+        "end": 131.7,
+        "text": "腦袋裡演完一遍成功的樣子"
+      },
+      {
+        "start": 131.7,
+        "end": 133.9,
+        "text": "會先給你一種差不多了的感覺"
+      }
+    ]
+  },
+  {
+    "scene_id": 44,
+    "start": 133.9,
+    "end": 138.133,
+    "duration": 4.233,
+    "text": "你就放鬆了，所以，準備有時候是一種很高級的逃避",
+    "image_prompt": "a smiling mask standing in front of a closed exit door, an arrow pointing to the door, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "sfx_keyword": "magic",
+    "sfx_type": "rhythm",
+    "sfx_offset": 3.83,
+    "cues": [
+      {
+        "start": 133.9,
+        "end": 135.233,
+        "text": "你就放鬆了"
+      },
+      {
+        "start": 135.366,
+        "end": 135.6,
+        "text": "所以"
+      },
+      {
+        "start": 135.6,
+        "end": 137.866,
+        "text": "準備有時候是一種很高級的逃避"
+      }
+    ]
+  },
+  {
+    "scene_id": 45,
+    "start": 138.133,
+    "end": 142.9,
+    "duration": 4.767,
+    "text": "它看起來很勤奮，又不用承擔風險，因為你還沒開始",
+    "image_prompt": "a young woman with short black hair in a navy (#1565C0) sweater studying diligently at a desk piled with notes, a soft green (#43A047) cushion under the desk, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 138.133,
+        "end": 139.466,
+        "text": "它看起來很勤奮"
+      },
+      {
+        "start": 139.466,
+        "end": 141.233,
+        "text": "又不用承擔風險"
+      },
+      {
+        "start": 141.466,
+        "end": 142.9,
+        "text": "因為你還沒開始"
+      }
+    ]
+  },
+  {
+    "scene_id": 46,
+    "start": 142.9,
+    "end": 148.1,
+    "duration": 5.2,
+    "text": "就沒有人能說你做得爛，而且準備永遠沒有完成的一天",
+    "image_prompt": "a long road stretching toward a distant flag with no footprints on it, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 142.9,
+        "end": 145.0,
+        "text": "就沒有人能說你做得爛"
+      },
+      {
+        "start": 145.166,
+        "end": 147.633,
+        "text": "而且準備永遠沒有完成的一天"
+      }
+    ]
+  },
+  {
+    "scene_id": 47,
+    "start": 148.1,
+    "end": 152.333,
+    "duration": 4.233,
+    "text": "永遠有一堂更好的課，一個更完美的時間點",
+    "image_prompt": "a stack of online course tablets with a gold (#FFC107) star beside a calendar with a star on one day, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "sfx_keyword": "ui click",
+    "sfx_type": "rhythm",
+    "sfx_offset": 3.83,
+    "cues": [
+      {
+        "start": 148.1,
+        "end": 149.966,
+        "text": "永遠有一堂更好的課"
+      },
+      {
+        "start": 150.0,
+        "end": 152.1,
+        "text": "一個更完美的時間點"
+      }
+    ]
+  },
+  {
+    "scene_id": 48,
+    "start": 152.333,
+    "end": 156.333,
+    "duration": 4.0,
+    "text": "它最狡猾的地方是長得很像努力",
+    "image_prompt": "a cardboard cutout of a running woman with painted sweat drops, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 152.333,
+        "end": 156.1,
+        "text": "它最狡猾的地方是長得很像努力"
+      }
+    ]
+  },
+  {
+    "scene_id": 49,
+    "start": 156.333,
+    "end": 160.933,
+    "duration": 4.6,
+    "text": "你有看書，有做筆記，所以你完全沒有罪惡感",
+    "image_prompt": "an open book, a notepad and a green (#2E7D32) checkmark, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 156.333,
+        "end": 157.533,
+        "text": "你有看書"
+      },
+      {
+        "start": 157.533,
+        "end": 158.666,
+        "text": "有做筆記"
+      },
+      {
+        "start": 158.7,
+        "end": 160.666,
+        "text": "所以你完全沒有罪惡感"
+      }
+    ]
+  },
+  {
+    "scene_id": 50,
+    "start": 160.933,
+    "end": 166.4,
+    "duration": 5.467,
+    "text": "罪惡感沒了，也就沒有東西會推你動起來，收藏夾裡那些教學影片",
+    "image_prompt": "a cart on the ground with a crossed-out forward arrow, no hand pushing it, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 160.933,
+        "end": 162.166,
+        "text": "罪惡感沒了"
+      },
+      {
+        "start": 162.166,
+        "end": 164.3,
+        "text": "也就沒有東西會推你動起來"
+      },
+      {
+        "start": 164.3,
+        "end": 166.4,
+        "text": "收藏夾裡那些教學影片"
+      }
+    ]
+  },
+  {
+    "scene_id": 51,
+    "start": 166.4,
+    "end": 171.7,
+    "duration": 5.3,
+    "text": "你以為在儲存知識，其實是在儲存一種我之後會看，的安心感",
+    "image_prompt": "a bookmark star icon above a cozy blanket piled with video thumbnail cards, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 166.4,
+        "end": 168.3,
+        "text": "你以為在儲存知識"
+      },
+      {
+        "start": 168.3,
+        "end": 170.266,
+        "text": "其實是在儲存一種我之後會看"
+      },
+      {
+        "start": 170.266,
+        "end": 171.433,
+        "text": "的安心感"
+      }
+    ]
+  },
+  {
+    "scene_id": 52,
+    "start": 171.7,
+    "end": 177.1,
+    "duration": 5.4,
+    "text": "你可能心想好，那我不準備了，我直接衝什麼都試試看",
+    "image_prompt": "a young woman with short black hair in a navy (#1565C0) sweater sprinting forward with arms out, a guitar, a laptop and a camera floating around him, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 171.7,
+        "end": 173.4,
+        "text": "你可能心想好"
+      },
+      {
+        "start": 173.4,
+        "end": 174.666,
+        "text": "那我不準備了"
+      },
+      {
+        "start": 174.666,
+        "end": 177.0,
+        "text": "我直接衝什麼都試試看"
+      }
+    ]
+  },
+  {
+    "scene_id": 53,
+    "start": 177.1,
+    "end": 181.566,
+    "duration": 4.466,
+    "text": "很抱歉第二種人就是這樣誕生的",
+    "image_prompt": "a cracking egg with a big orange (#EF6C00) number two hatching out, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "sfx_keyword": "egg crack",
+    "cues": [
+      {
+        "start": 177.1,
+        "end": 181.133,
+        "text": "很抱歉第二種人就是這樣誕生的"
+      }
+    ]
+  },
+  {
+    "scene_id": 54,
+    "start": 181.566,
+    "end": 185.366,
+    "duration": 3.8,
+    "text": "第二種人什麼都想要，所以什麼都沒有留下來",
+    "image_prompt": "a hand holding womany different colored balloons that float away untied, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "sfx_keyword": "keyboard",
+    "sfx_type": "rhythm",
+    "sfx_offset": 0.3,
+    "cues": [
+      {
+        "start": 181.566,
+        "end": 183.366,
+        "text": "第二種人什麼都想要"
+      },
+      {
+        "start": 183.366,
+        "end": 185.166,
+        "text": "所以什麼都沒有留下來"
+      }
+    ]
+  },
+  {
+    "scene_id": 55,
+    "start": 185.366,
+    "end": 189.2,
+    "duration": 3.834,
+    "text": "今年學剪輯，明年學投資，後年想做電商",
+    "image_prompt": "three diverging paths ending in a film clapperboard, a rising stock arrow and a shopping cart, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "sfx_keyword": "ui click",
+    "sfx_type": "rhythm",
+    "sfx_offset": 3.43,
+    "cues": [
+      {
+        "start": 185.366,
+        "end": 186.466,
+        "text": "今年學剪輯"
+      },
+      {
+        "start": 186.466,
+        "end": 187.566,
+        "text": "明年學投資"
+      },
+      {
+        "start": 187.566,
+        "end": 189.2,
+        "text": "後年想做電商"
+      }
+    ]
+  },
+  {
+    "scene_id": 56,
+    "start": 189.2,
+    "end": 193.766,
+    "duration": 4.566,
+    "text": "但大後年又覺得自己其實適合寫小說，每一次換跑道",
+    "image_prompt": "an open notebook with a quill and an old checklist crossed out in red (#D32F2F), Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 189.2,
+        "end": 192.3,
+        "text": "但大後年又覺得自己其實適合寫小說"
+      },
+      {
+        "start": 192.466,
+        "end": 193.766,
+        "text": "每一次換跑道"
+      }
+    ]
+  },
+  {
+    "scene_id": 57,
+    "start": 193.766,
+    "end": 198.3,
+    "duration": 4.534,
+    "text": "當下都有一個很合理的理由，市場變了",
+    "image_prompt": "a railway track splitting at a junction with a signal light, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "sfx_keyword": "train passing",
+    "cues": [
+      {
+        "start": 193.766,
+        "end": 196.233,
+        "text": "當下都有一個很合理的理由"
+      },
+      {
+        "start": 196.4,
+        "end": 197.766,
+        "text": "市場變了"
+      }
+    ]
+  },
+  {
+    "scene_id": 58,
+    "start": 198.3,
+    "end": 203.333,
+    "duration": 5.033,
+    "text": "這個領域太擠了，我發現我真正熱愛的是別的東西",
+    "image_prompt": "a speech bubble full of symbols: a falling market chart, a crowd of dots, a flaming heart, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 198.3,
+        "end": 199.966,
+        "text": "這個領域太擠了"
+      },
+      {
+        "start": 200.0,
+        "end": 202.966,
+        "text": "我發現我真正熱愛的是別的東西"
+      }
+    ]
+  },
+  {
+    "scene_id": 59,
+    "start": 203.333,
+    "end": 209.166,
+    "duration": 5.833,
+    "text": "達克沃絲教授在賓州大學研究，恆毅力，她的量表裡有一題寫得很直白",
+    "image_prompt": "a shield-shaped banner with a flexed arm icon and a small trophy, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "sfx_keyword": "pop bright",
+    "sfx_type": "rhythm",
+    "sfx_offset": 2.3,
+    "cues": [
+      {
+        "start": 203.333,
+        "end": 205.666,
+        "text": "達克沃絲教授在賓州大學研究"
+      },
+      {
+        "start": 205.666,
+        "end": 206.633,
+        "text": "恆毅力"
+      },
+      {
+        "start": 206.666,
+        "end": 209.166,
+        "text": "她的量表裡有一題寫得很直白"
+      }
+    ]
+  },
+  {
+    "scene_id": 60,
+    "start": 209.166,
+    "end": 214.066,
+    "duration": 4.9,
+    "text": "大意是我常常設定一個目標，後來又改去追另一個",
+    "image_prompt": "a questionnaire sheet with a checkbox list and a pencil, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 209.166,
+        "end": 211.933,
+        "text": "大意是我常常設定一個目標"
+      },
+      {
+        "start": 211.933,
+        "end": 213.833,
+        "text": "後來又改去追另一個"
+      }
+    ]
+  },
+  {
+    "scene_id": 61,
+    "start": 214.066,
+    "end": 220.166,
+    "duration": 6.1,
+    "text": "你如果很想勾對不要緊張，我第一次看到的時候，也默默勾了一下",
+    "image_prompt": "a young woman with short black hair in a navy (#1565C0) sweater holding a pencil and a questionnaire, quietly ticking a box with a sheepish smile, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "sfx_keyword": "cartoon boing",
+    "sfx_type": "rhythm",
+    "sfx_offset": 5.7,
+    "cues": [
+      {
+        "start": 214.066,
+        "end": 216.4,
+        "text": "你如果很想勾對不要緊張"
+      },
+      {
+        "start": 216.5,
+        "end": 218.166,
+        "text": "我第一次看到的時候"
+      },
+      {
+        "start": 218.166,
+        "end": 220.0,
+        "text": "也默默勾了一下"
+      }
+    ]
+  },
+  {
+    "scene_id": 62,
+    "start": 220.166,
+    "end": 225.733,
+    "duration": 5.567,
+    "text": "她在書裡提到，恆毅力的核心，是長時間抓著同一個最上層的目標",
+    "image_prompt": "a tall mountain with a flag at the very top and an arrow rising from the base, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 220.166,
+        "end": 221.2,
+        "text": "她在書裡提到"
+      },
+      {
+        "start": 221.2,
+        "end": 222.5,
+        "text": "恆毅力的核心"
+      },
+      {
+        "start": 222.5,
+        "end": 225.4,
+        "text": "是長時間抓著同一個最上層的目標"
+      }
+    ]
+  },
+  {
+    "scene_id": 63,
+    "start": 225.733,
+    "end": 230.9,
+    "duration": 5.167,
+    "text": "底下的小目標可以隨時換，方法可以換，工具也可以換",
+    "image_prompt": "a three-layer block pyramid, a hand swapping small blocks at the bottom while the top block stays, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "sfx_keyword": "ui click",
+    "sfx_type": "rhythm",
+    "sfx_offset": 4.77,
+    "cues": [
+      {
+        "start": 225.733,
+        "end": 227.866,
+        "text": "底下的小目標可以隨時換"
+      },
+      {
+        "start": 228.1,
+        "end": 229.366,
+        "text": "方法可以換"
+      },
+      {
+        "start": 229.366,
+        "end": 230.666,
+        "text": "工具也可以換"
+      }
+    ]
+  },
+  {
+    "scene_id": 64,
+    "start": 230.9,
+    "end": 234.666,
+    "duration": 3.766,
+    "text": "但最上面那個方向，不能每半年換一次",
+    "image_prompt": "a compass needle locked on a flag at the top while calendar pages flip behind, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 230.9,
+        "end": 232.6,
+        "text": "但最上面那個方向"
+      },
+      {
+        "start": 232.6,
+        "end": 234.4,
+        "text": "不能每半年換一次"
+      }
+    ]
+  },
+  {
+    "scene_id": 65,
+    "start": 234.666,
+    "end": 238.566,
+    "duration": 3.9,
+    "text": "缺乏恆毅力的人，常常是因為目標結構太散",
+    "image_prompt": "a pyramid with a tiny top block and scattered middle and bottom blocks, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 234.666,
+        "end": 235.9,
+        "text": "缺乏恆毅力的人"
+      },
+      {
+        "start": 235.9,
+        "end": 238.233,
+        "text": "常常是因為目標結構太散"
+      }
+    ]
+  },
+  {
+    "scene_id": 66,
+    "start": 238.566,
+    "end": 242.733,
+    "duration": 4.167,
+    "text": "中間層跟底層的目標，沒有指向同一個地方",
+    "image_prompt": "arrows from the middle and bottom blocks pointing away in different directions, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 238.566,
+        "end": 240.6,
+        "text": "中間層跟底層的目標"
+      },
+      {
+        "start": 240.6,
+        "end": 242.5,
+        "text": "沒有指向同一個地方"
+      }
+    ]
+  },
+  {
+    "scene_id": 67,
+    "start": 242.733,
+    "end": 248.6,
+    "duration": 5.867,
+    "text": "你一定有過這個畫面，在書店翻到一本新領域的書，翻開第一頁",
+    "image_prompt": "a young woman with short black hair in a navy (#1565C0) sweater in a bookstore aisle holding a glowing book beside a tall bookshelf, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 242.733,
+        "end": 244.466,
+        "text": "你一定有過這個畫面"
+      },
+      {
+        "start": 244.666,
+        "end": 247.066,
+        "text": "在書店翻到一本新領域的書"
+      },
+      {
+        "start": 247.166,
+        "end": 248.366,
+        "text": "翻開第一頁"
+      }
+    ]
+  },
+  {
+    "scene_id": 68,
+    "start": 248.6,
+    "end": 254.966,
+    "duration": 6.366,
+    "text": "整個人都亮了，覺得這就是我的天命，兩個禮拜後，書籤停在第三章",
+    "image_prompt": "a glowing book with a bookmark stopped at chapter three beside a calendar with two weeks crossed out, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 248.6,
+        "end": 250.066,
+        "text": "整個人都亮了"
+      },
+      {
+        "start": 250.066,
+        "end": 252.0,
+        "text": "覺得這就是我的天命"
+      },
+      {
+        "start": 252.0,
+        "end": 252.933,
+        "text": "兩個禮拜後"
+      },
+      {
+        "start": 252.933,
+        "end": 254.566,
+        "text": "書籤停在第三章"
+      }
+    ]
+  },
+  {
+    "scene_id": 69,
+    "start": 254.966,
+    "end": 259.4,
+    "duration": 4.434,
+    "text": "新東西一出現，人特別興奮，但興奮會退",
+    "image_prompt": "a flame icon shrinking in three stages from a tall fire to a small candle, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "sfx_keyword": "flame flicker",
+    "cues": [
+      {
+        "start": 254.966,
+        "end": 256.466,
+        "text": "新東西一出現"
+      },
+      {
+        "start": 256.733,
+        "end": 257.866,
+        "text": "人特別興奮"
+      },
+      {
+        "start": 257.866,
+        "end": 259.2,
+        "text": "但興奮會退"
+      }
+    ]
+  },
+  {
+    "scene_id": 70,
+    "start": 259.4,
+    "end": 265.9,
+    "duration": 6.5,
+    "text": "退完以後留下來的，是需要花時間慢慢磨的那一段，台灣很流行斜槓",
+    "image_prompt": "a grindstone wheel sharpening a knife with small sparks, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "sfx_keyword": "grinding metal",
+    "cues": [
+      {
+        "start": 259.4,
+        "end": 261.066,
+        "text": "退完以後留下來的"
+      },
+      {
+        "start": 261.066,
+        "end": 263.6,
+        "text": "是需要花時間慢慢磨的那一段"
+      },
+      {
+        "start": 263.933,
+        "end": 265.466,
+        "text": "台灣很流行斜槓"
+      }
+    ]
+  },
+  {
+    "scene_id": 71,
+    "start": 265.9,
+    "end": 270.3,
+    "duration": 4.4,
+    "text": "斜槓本身沒問題，問題在於，如果你有五條斜槓",
+    "image_prompt": "five slash symbols in different colors in a row like job-title separators, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 265.9,
+        "end": 267.466,
+        "text": "斜槓本身沒問題"
+      },
+      {
+        "start": 267.466,
+        "end": 268.666,
+        "text": "問題在於"
+      },
+      {
+        "start": 268.666,
+        "end": 270.3,
+        "text": "如果你有五條斜槓"
+      }
+    ]
+  },
+  {
+    "scene_id": 72,
+    "start": 270.3,
+    "end": 276.6,
+    "duration": 6.3,
+    "text": "每一條都停在新手階段，那你其實只是五個初學者，擠在同一個身體裡",
+    "image_prompt": "five small beginner badges with a star each squeezed into one large body outline, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 270.3,
+        "end": 272.5,
+        "text": "每一條都停在新手階段"
+      },
+      {
+        "start": 272.5,
+        "end": 274.566,
+        "text": "那你其實只是五個初學者"
+      },
+      {
+        "start": 274.566,
+        "end": 276.4,
+        "text": "擠在同一個身體裡"
+      }
+    ]
+  },
+  {
+    "scene_id": 73,
+    "start": 276.6,
+    "end": 280.3,
+    "duration": 3.7,
+    "text": "技能樹點了一整片，每個都是一級，換跑道的人",
+    "image_prompt": "a skill tree diagram with womany nodes all lit at level one, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 276.6,
+        "end": 277.966,
+        "text": "技能樹點了一整片"
+      },
+      {
+        "start": 277.966,
+        "end": 279.3,
+        "text": "每個都是一級"
+      },
+      {
+        "start": 279.533,
+        "end": 280.3,
+        "text": "換跑道的人"
+      }
+    ]
+  },
+  {
+    "scene_id": 74,
+    "start": 280.3,
+    "end": 286.866,
+    "duration": 6.566,
+    "text": "最大的問題是每一次都把累積歸零，第一年的新手紅利你拿到了",
+    "image_prompt": "a hand pulling a reset arrow, a progress bar dropping to zero, a small gift box opening, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 280.3,
+        "end": 283.466,
+        "text": "最大的問題是每一次都把累積歸零"
+      },
+      {
+        "start": 283.866,
+        "end": 286.8,
+        "text": "第一年的新手紅利你拿到了"
+      }
+    ]
+  },
+  {
+    "scene_id": 75,
+    "start": 286.866,
+    "end": 291.966,
+    "duration": 5.1,
+    "text": "第二年開始辛苦，要爬那段沒有人鼓掌的坡，你就走了",
+    "image_prompt": "a steep hill road with empty bleachers on the side and footprints turning back downhill, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 286.866,
+        "end": 288.466,
+        "text": "第二年開始辛苦"
+      },
+      {
+        "start": 288.6,
+        "end": 290.6,
+        "text": "要爬那段沒有人鼓掌的坡"
+      },
+      {
+        "start": 290.6,
+        "end": 291.833,
+        "text": "你就走了"
+      }
+    ]
+  },
+  {
+    "scene_id": 76,
+    "start": 291.966,
+    "end": 296.4,
+    "duration": 4.434,
+    "text": "永遠只吃新手村的福利，你就永遠是新手",
+    "image_prompt": "a tiny starter hut with a welcome sign, a gift box and a level one flag, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 291.966,
+        "end": 294.3,
+        "text": "永遠只吃新手村的福利"
+      },
+      {
+        "start": 294.4,
+        "end": 296.1,
+        "text": "你就永遠是新手"
+      }
+    ]
+  },
+  {
+    "scene_id": 77,
+    "start": 296.4,
+    "end": 301.333,
+    "duration": 4.933,
+    "text": "還有一個更陰險的原因，叫選擇太多，艾恩嘉教授在一間超市",
+    "image_prompt": "a signpost with a dozen arrows pointing in different directions, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 296.4,
+        "end": 297.933,
+        "text": "還有一個更陰險的原因"
+      },
+      {
+        "start": 297.933,
+        "end": 299.433,
+        "text": "叫選擇太多"
+      },
+      {
+        "start": 299.666,
+        "end": 301.333,
+        "text": "艾恩嘉教授在一間超市"
+      }
+    ]
+  },
+  {
+    "scene_id": 78,
+    "start": 301.333,
+    "end": 306.733,
+    "duration": 5.4,
+    "text": "擺了一個果醬試吃攤，有時候放二十四種，有時候只放六種",
+    "image_prompt": "a market stall table with two rows of colorful jam jars, one crowded and one sparse, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 301.333,
+        "end": 303.266,
+        "text": "擺了一個果醬試吃攤"
+      },
+      {
+        "start": 303.366,
+        "end": 304.933,
+        "text": "有時候放二十四種"
+      },
+      {
+        "start": 304.933,
+        "end": 306.433,
+        "text": "有時候只放六種"
+      }
+    ]
+  },
+  {
+    "scene_id": 79,
+    "start": 306.733,
+    "end": 311.2,
+    "duration": 4.467,
+    "text": "放二十四種的時候，停下來試吃的人比較多",
+    "image_prompt": "a crowded shelf of womany jam jars with tasting spoons stacked in front, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 306.733,
+        "end": 308.666,
+        "text": "放二十四種的時候"
+      },
+      {
+        "start": 308.666,
+        "end": 310.8,
+        "text": "停下來試吃的人比較多"
+      }
+    ]
+  },
+  {
+    "scene_id": 80,
+    "start": 311.2,
+    "end": 318.366,
+    "duration": 7.166,
+    "text": "可是真正掏錢買的只有百分之三，只放六種的時候，百分之三十的人買了",
+    "image_prompt": "two bar graphs: a tiny green (#2E7D32) bar and a tall green bar, jam jars beside them, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "sfx_keyword": "pop bright",
+    "sfx_type": "rhythm",
+    "sfx_offset": 6.77,
+    "cues": [
+      {
+        "start": 311.2,
+        "end": 314.466,
+        "text": "可是真正掏錢買的只有百分之三"
+      },
+      {
+        "start": 314.7,
+        "end": 316.066,
+        "text": "只放六種的時候"
+      },
+      {
+        "start": 316.066,
+        "end": 318.166,
+        "text": "百分之三十的人買了"
+      }
+    ]
+  },
+  {
+    "scene_id": 81,
+    "start": 318.366,
+    "end": 323.1,
+    "duration": 4.734,
+    "text": "換到教室也一樣，給學生六個作文題目，跟給三十個作文題目",
+    "image_prompt": "two stacks of paper cards: a small stack and a huge stack, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 318.366,
+        "end": 319.533,
+        "text": "換到教室也一樣"
+      },
+      {
+        "start": 319.533,
+        "end": 321.133,
+        "text": "給學生六個作文題目"
+      },
+      {
+        "start": 321.133,
+        "end": 322.966,
+        "text": "跟給三十個作文題目"
+      }
+    ]
+  },
+  {
+    "scene_id": 82,
+    "start": 323.1,
+    "end": 329.566,
+    "duration": 6.466,
+    "text": "題目少的那一組，作文反而寫得比較好，選項一多，人就很容易乾脆什麼都不選",
+    "image_prompt": "a neat short stack of essays with a green (#43A047) star beside a messy giant pile, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 323.1,
+        "end": 324.3,
+        "text": "題目少的那一組"
+      },
+      {
+        "start": 324.3,
+        "end": 326.033,
+        "text": "作文反而寫得比較好"
+      },
+      {
+        "start": 326.133,
+        "end": 326.933,
+        "text": "選項一多"
+      },
+      {
+        "start": 326.933,
+        "end": 329.233,
+        "text": "人就很容易乾脆什麼都不選"
+      }
+    ]
+  },
+  {
+    "scene_id": 83,
+    "start": 329.566,
+    "end": 334.8,
+    "duration": 5.234,
+    "text": "我看到這裡覺得很諷刺，我們一直以為多一個選擇，就是多一分自由",
+    "image_prompt": "a hammock under a banner with a star, a sign pointing to womany choices, ironic smile face, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 329.566,
+        "end": 331.366,
+        "text": "我看到這裡覺得很諷刺"
+      },
+      {
+        "start": 331.6,
+        "end": 333.266,
+        "text": "我們一直以為多一個選擇"
+      },
+      {
+        "start": 333.266,
+        "end": 334.8,
+        "text": "就是多一分自由"
+      }
+    ]
+  },
+  {
+    "scene_id": 84,
+    "start": 334.8,
+    "end": 339.333,
+    "duration": 4.533,
+    "text": "結果多出來的，常常只是多一個拖延的藉口",
+    "image_prompt": "a pile of sticky notes each crossed by a red (#D32F2F) X, a sleeping alarm clock above, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "sfx_keyword": "wrong buzzer",
+    "sfx_type": "rhythm",
+    "sfx_offset": 4.13,
+    "cues": [
+      {
+        "start": 334.8,
+        "end": 336.3,
+        "text": "結果多出來的"
+      },
+      {
+        "start": 336.3,
+        "end": 338.866,
+        "text": "常常只是多一個拖延的藉口"
+      }
+    ]
+  },
+  {
+    "scene_id": 85,
+    "start": 339.333,
+    "end": 344.1,
+    "duration": 4.767,
+    "text": "第三種人太在意，別人怎麼看，所以不敢選自己真正想要的",
+    "image_prompt": "a young woman with short black hair in a navy (#1565C0) sweater hiding half behind a wall while womany pairs of eyes in speech bubbles look at him, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "sfx_keyword": "keyboard",
+    "sfx_type": "rhythm",
+    "sfx_offset": 0.3,
+    "cues": [
+      {
+        "start": 339.333,
+        "end": 340.566,
+        "text": "第三種人太在意"
+      },
+      {
+        "start": 340.566,
+        "end": 341.4,
+        "text": "別人怎麼看"
+      },
+      {
+        "start": 341.4,
+        "end": 344.0,
+        "text": "所以不敢選自己真正想要的"
+      }
+    ]
+  },
+  {
+    "scene_id": 86,
+    "start": 344.1,
+    "end": 348.333,
+    "duration": 4.233,
+    "text": "想像一下，你被要求，穿一件印著某位老牌歌手大頭的短",
+    "image_prompt": "a white t-shirt printed with a goofy cartoon portrait of an old singer with a pompadour, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 344.1,
+        "end": 344.933,
+        "text": "想像一下"
+      },
+      {
+        "start": 344.933,
+        "end": 345.666,
+        "text": "你被要求"
+      },
+      {
+        "start": 345.666,
+        "end": 348.333,
+        "text": "穿一件印著某位老牌歌手大頭的短"
+      }
+    ]
+  },
+  {
+    "scene_id": 87,
+    "start": 348.333,
+    "end": 353.966,
+    "duration": 5.633,
+    "text": "袖走進一間坐滿同學的教室，那位歌手是學生之間公認最尷",
+    "image_prompt": "a classroom with rows of desks and an open door, the portrait t-shirt on a hanger at the entrance, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "sfx_keyword": "door creak",
+    "cues": [
+      {
+        "start": 348.333,
+        "end": 351.066,
+        "text": "袖走進一間坐滿同學的教室"
+      },
+      {
+        "start": 351.666,
+        "end": 353.966,
+        "text": "那位歌手是學生之間公認最尷"
+      }
+    ]
+  },
+  {
+    "scene_id": 88,
+    "start": 353.966,
+    "end": 359.9,
+    "duration": 5.934,
+    "text": "尬的那種，你自己代入一個，你最不想被人看到你喜歡的人就好",
+    "image_prompt": "a young woman with short black hair in a navy (#1565C0) sweater wearing a t-shirt with an awkward cartoon portrait, one hand covering his face, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 353.966,
+        "end": 354.9,
+        "text": "尬的那種"
+      },
+      {
+        "start": 354.9,
+        "end": 356.633,
+        "text": "你自己代入一個"
+      },
+      {
+        "start": 356.7,
+        "end": 359.766,
+        "text": "你最不想被人看到你喜歡的人就好"
+      }
+    ]
+  },
+  {
+    "scene_id": 89,
+    "start": 359.9,
+    "end": 363.766,
+    "duration": 3.866,
+    "text": "吉洛維奇教授，在兩千年真的做了這個實驗",
+    "image_prompt": "a clipboard with a checklist and a magnifying glass over a t-shirt icon, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "sfx_keyword": "pop bright",
+    "sfx_type": "rhythm",
+    "sfx_offset": 0.6,
+    "cues": [
+      {
+        "start": 359.9,
+        "end": 360.933,
+        "text": "吉洛維奇教授"
+      },
+      {
+        "start": 360.933,
+        "end": 363.633,
+        "text": "在兩千年真的做了這個實驗"
+      }
+    ]
+  },
+  {
+    "scene_id": 90,
+    "start": 363.766,
+    "end": 368.466,
+    "duration": 4.7,
+    "text": "穿短袖的學生，要猜有多少人注意到他的衣服",
+    "image_prompt": "a young woman with short black hair in a navy (#1565C0) sweater wearing the portrait t-shirt, a thought bubble showing a crowd of womany eyes staring at him, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 363.766,
+        "end": 365.5,
+        "text": "穿短袖的學生"
+      },
+      {
+        "start": 365.666,
+        "end": 368.066,
+        "text": "要猜有多少人注意到他的衣服"
+      }
+    ]
+  },
+  {
+    "scene_id": 91,
+    "start": 368.466,
+    "end": 374.8,
+    "duration": 6.334,
+    "text": "他們猜大概快一半的人，實際上注意到的只有大約兩成",
+    "image_prompt": "two bars: a tall orange (#EF6C00) bar near half and a short blue (#1E88E5) bar about one fifth, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "sfx_keyword": "record scratch",
+    "sfx_type": "rhythm",
+    "sfx_offset": 5.93,
+    "cues": [
+      {
+        "start": 368.466,
+        "end": 371.466,
+        "text": "他們猜大概快一半的人"
+      },
+      {
+        "start": 371.6,
+        "end": 374.633,
+        "text": "實際上注意到的只有大約兩成"
+      }
+    ]
+  },
+  {
+    "scene_id": 92,
+    "start": 374.8,
+    "end": 378.8,
+    "duration": 4.0,
+    "text": "更好笑的是，換成穿大家都覺得很酷的歌手",
+    "image_prompt": "a laughing face beside a t-shirt with a cool cartoon singer wearing sunglasses, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "sfx_keyword": "giggle",
+    "cues": [
+      {
+        "start": 374.8,
+        "end": 376.1,
+        "text": "更好笑的是"
+      },
+      {
+        "start": 376.1,
+        "end": 378.8,
+        "text": "換成穿大家都覺得很酷的歌手"
+      }
+    ]
+  },
+  {
+    "scene_id": 93,
+    "start": 378.8,
+    "end": 385.266,
+    "duration": 6.466,
+    "text": "結果一樣穿的人還是高估了，吉洛維奇，把這個現象叫做聚光燈效應",
+    "image_prompt": "a spotlight beam on one person icon while everyone else looks elsewhere, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "sfx_keyword": "pop bright",
+    "sfx_type": "rhythm",
+    "sfx_offset": 6.0,
+    "cues": [
+      {
+        "start": 378.8,
+        "end": 381.7,
+        "text": "結果一樣穿的人還是高估了"
+      },
+      {
+        "start": 381.8,
+        "end": 382.333,
+        "text": "吉洛維奇"
+      },
+      {
+        "start": 382.333,
+        "end": 384.866,
+        "text": "把這個現象叫做聚光燈效應"
+      }
+    ]
+  },
+  {
+    "scene_id": 94,
+    "start": 385.266,
+    "end": 390.466,
+    "duration": 5.2,
+    "text": "你覺得全世界的燈都打在你身上，但每個人都忙著照自己",
+    "image_prompt": "a big spotlight circle with a tiny figure in the middle, womany small figures each holding a mirror toward themselves, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 385.266,
+        "end": 388.066,
+        "text": "你覺得全世界的燈都打在你身上"
+      },
+      {
+        "start": 388.133,
+        "end": 390.4,
+        "text": "但每個人都忙著照自己"
+      }
+    ]
+  },
+  {
+    "scene_id": 95,
+    "start": 390.466,
+    "end": 395.166,
+    "duration": 4.7,
+    "text": "後來他的團隊把實驗換成小組討論，發現人也會高估",
+    "image_prompt": "a round table with five speech bubbles of different sizes, one highlighted larger, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 390.466,
+        "end": 393.466,
+        "text": "後來他的團隊把實驗換成小組討論"
+      },
+      {
+        "start": 393.5,
+        "end": 395.166,
+        "text": "發現人也會高估"
+      }
+    ]
+  },
+  {
+    "scene_id": 96,
+    "start": 395.166,
+    "end": 399.2,
+    "duration": 4.034,
+    "text": "自己說過的話被別人記住的程度，你以為大家都",
+    "image_prompt": "one large speech bubble with a red (#D32F2F) exclamation mark beside tiny faded bubbles, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 395.166,
+        "end": 398.033,
+        "text": "自己說過的話被別人記住的程度"
+      },
+      {
+        "start": 398.466,
+        "end": 399.2,
+        "text": "你以為大家都"
+      }
+    ]
+  },
+  {
+    "scene_id": 97,
+    "start": 399.2,
+    "end": 404.566,
+    "duration": 5.366,
+    "text": "記得你那句尷尬的發言，其實根本沒人記得，可是這個錯覺很貴",
+    "image_prompt": "several empty blank thought bubbles floating above a row of empty chairs, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "sfx_keyword": "wrong buzzer",
+    "sfx_type": "rhythm",
+    "sfx_offset": 3.4,
+    "cues": [
+      {
+        "start": 399.2,
+        "end": 400.866,
+        "text": "記得你那句尷尬的發言"
+      },
+      {
+        "start": 400.866,
+        "end": 402.5,
+        "text": "其實根本沒人記得"
+      },
+      {
+        "start": 402.733,
+        "end": 404.366,
+        "text": "可是這個錯覺很貴"
+      }
+    ]
+  },
+  {
+    "scene_id": 98,
+    "start": 404.566,
+    "end": 409.366,
+    "duration": 4.8,
+    "text": "你想辭職做自己的事，第一個擔心的大概是過年回家",
+    "image_prompt": "a young woman with short black hair in a navy (#1565C0) sweater holding a resignation letter and a briefcase, a house icon with speech bubbles beside him, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 404.566,
+        "end": 406.5,
+        "text": "你想辭職做自己的事"
+      },
+      {
+        "start": 406.5,
+        "end": 409.366,
+        "text": "第一個擔心的大概是過年回家"
+      }
+    ]
+  },
+  {
+    "scene_id": 99,
+    "start": 409.366,
+    "end": 413.466,
+    "duration": 4.1,
+    "text": "親戚會怎麼問，房租都還排在後面，我們卻因此",
+    "image_prompt": "a round dinner table with three speech bubbles each holding a question mark, a small rent receipt beside it, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "sfx_keyword": "small bell ding",
+    "sfx_type": "rhythm",
+    "sfx_offset": 1.4,
+    "cues": [
+      {
+        "start": 409.366,
+        "end": 410.533,
+        "text": "親戚會怎麼問"
+      },
+      {
+        "start": 410.533,
+        "end": 412.266,
+        "text": "房租都還排在後面"
+      },
+      {
+        "start": 412.666,
+        "end": 413.466,
+        "text": "我們卻因此"
+      }
+    ]
+  },
+  {
+    "scene_id": 100,
+    "start": 413.466,
+    "end": 419.133,
+    "duration": 5.667,
+    "text": "選了一條看起來不會被問的路，穩定的工作，讓爸媽好交代的決定",
+    "image_prompt": "a smooth straight road with a green (#2E7D32) check mark and a plain office building, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 413.466,
+        "end": 415.966,
+        "text": "選了一條看起來不會被問的路"
+      },
+      {
+        "start": 415.966,
+        "end": 416.866,
+        "text": "穩定的工作"
+      },
+      {
+        "start": 416.866,
+        "end": 418.9,
+        "text": "讓爸媽好交代的決定"
+      }
+    ]
+  },
+  {
+    "scene_id": 101,
+    "start": 419.133,
+    "end": 425.7,
+    "duration": 6.567,
+    "text": "然後花很多年，替一群根本沒在看你的人工作，我們從小就被訓練看臉色",
+    "image_prompt": "an office desk and chair with a monitor and a clock, empty bleachers behind them, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 419.133,
+        "end": 420.466,
+        "text": "然後花很多年"
+      },
+      {
+        "start": 420.466,
+        "end": 423.033,
+        "text": "替一群根本沒在看你的人工作"
+      },
+      {
+        "start": 423.333,
+        "end": 425.6,
+        "text": "我們從小就被訓練看臉色"
+      }
+    ]
+  },
+  {
+    "scene_id": 102,
+    "start": 425.7,
+    "end": 430.966,
+    "duration": 5.266,
+    "text": "考試要看排名，連選科系，都要先問一句這個出去好不好",
+    "image_prompt": "a scoreboard ranking list with a podium and three exam papers, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 425.7,
+        "end": 427.233,
+        "text": "考試要看排名"
+      },
+      {
+        "start": 427.3,
+        "end": 428.4,
+        "text": "連選科系"
+      },
+      {
+        "start": 428.566,
+        "end": 430.966,
+        "text": "都要先問一句這個出去好不好"
+      }
+    ]
+  },
+  {
+    "scene_id": 103,
+    "start": 430.966,
+    "end": 436.733,
+    "duration": 5.767,
+    "text": "講久了，你連自己想要什麼，都要先過一遍別人的濾鏡",
+    "image_prompt": "a pair of tinted glasses with a colored lens in front of a heart icon, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 430.966,
+        "end": 432.666,
+        "text": "講久了"
+      },
+      {
+        "start": 432.666,
+        "end": 434.2,
+        "text": "你連自己想要什麼"
+      },
+      {
+        "start": 434.2,
+        "end": 436.3,
+        "text": "都要先過一遍別人的濾鏡"
+      }
+    ]
+  },
+  {
+    "scene_id": 104,
+    "start": 436.733,
+    "end": 443.3,
+    "duration": 6.567,
+    "text": "到這裡你可能鬆了一口氣，覺得在四種裡面，我頂多中一兩種",
+    "image_prompt": "a young woman with short black hair in a navy (#1565C0) sweater wiping his forehead with a relieved smile, a small sigh cloud beside him, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 436.733,
+        "end": 439.5,
+        "text": "到這裡你可能鬆了一口氣"
+      },
+      {
+        "start": 439.5,
+        "end": 441.266,
+        "text": "覺得在四種裡面"
+      },
+      {
+        "start": 441.266,
+        "end": 443.033,
+        "text": "我頂多中一兩種"
+      }
+    ]
+  },
+  {
+    "scene_id": 105,
+    "start": 443.3,
+    "end": 448.166,
+    "duration": 4.866,
+    "text": "先別急最後這一種，是我看資料的時候最坐不住的",
+    "image_prompt": "a red (#D32F2F) warning triangle with an exclamation mark and a stop hand, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "sfx_keyword": "warning beep",
+    "cues": [
+      {
+        "start": 443.3,
+        "end": 445.5,
+        "text": "先別急最後這一種"
+      },
+      {
+        "start": 445.5,
+        "end": 448.166,
+        "text": "是我看資料的時候最坐不住的"
+      }
+    ]
+  },
+  {
+    "scene_id": 106,
+    "start": 448.166,
+    "end": 453.766,
+    "duration": 5.6,
+    "text": "也是我說最危險的那一種，第四種人習，慣性地放棄自己",
+    "image_prompt": "a big red (#D32F2F) number four inside a dark warning triangle, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "sfx_keyword": "keyboard",
+    "sfx_type": "rhythm",
+    "sfx_offset": 2.6,
+    "cues": [
+      {
+        "start": 448.166,
+        "end": 450.466,
+        "text": "也是我說最危險的那一種"
+      },
+      {
+        "start": 450.766,
+        "end": 451.966,
+        "text": "第四種人習"
+      },
+      {
+        "start": 451.966,
+        "end": 453.633,
+        "text": "慣性地放棄自己"
+      }
+    ]
+  },
+  {
+    "scene_id": 107,
+    "start": 453.766,
+    "end": 460.566,
+    "duration": 6.8,
+    "text": "失敗其實很便宜，每個人都會失敗，真正貴的，是你一次又一次對自己說到做不到",
+    "image_prompt": "two price tags: a small green (#43A047) tag and a huge red (#D32F2F) tag, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "sfx_keyword": "cash register",
+    "cues": [
+      {
+        "start": 453.766,
+        "end": 455.0,
+        "text": "失敗其實很便宜"
+      },
+      {
+        "start": 455.0,
+        "end": 456.566,
+        "text": "每個人都會失敗"
+      },
+      {
+        "start": 456.733,
+        "end": 457.6,
+        "text": "真正貴的"
+      },
+      {
+        "start": 457.6,
+        "end": 460.566,
+        "text": "是你一次又一次對自己說到做不到"
+      }
+    ]
+  },
+  {
+    "scene_id": 108,
+    "start": 460.566,
+    "end": 465.533,
+    "duration": 4.967,
+    "text": "說好要早起沒起，說好週末開始",
+    "image_prompt": "an alarm clock ringing beside an unticked checkbox and a weekend calendar flag, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "sfx_keyword": "alarm clock",
+    "cues": [
+      {
+        "start": 460.566,
+        "end": 463.366,
+        "text": "說好要早起沒起"
+      },
+      {
+        "start": 463.566,
+        "end": 465.266,
+        "text": "說好週末開始"
+      }
+    ]
+  },
+  {
+    "scene_id": 109,
+    "start": 465.533,
+    "end": 472.1,
+    "duration": 6.567,
+    "text": "沒開始你沒有告訴任何人，但這些承諾全部記在你自己的帳上",
+    "image_prompt": "a ledger book with a red (#D32F2F) minus sign on every line and a pen, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 465.533,
+        "end": 468.266,
+        "text": "沒開始你沒有告訴任何人"
+      },
+      {
+        "start": 468.266,
+        "end": 471.8,
+        "text": "但這些承諾全部記在你自己的帳上"
+      }
+    ]
+  },
+  {
+    "scene_id": 110,
+    "start": 472.1,
+    "end": 478.666,
+    "duration": 6.566,
+    "text": "仔細想想，這很像每天都在跟自己簽約，違約又不用付違約金，所以違約得特別輕鬆",
+    "image_prompt": "a signed contract paper torn in half with no penalty bill, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "sfx_keyword": "paper tearing",
+    "cues": [
+      {
+        "start": 472.1,
+        "end": 472.766,
+        "text": "仔細想想"
+      },
+      {
+        "start": 472.766,
+        "end": 474.9,
+        "text": "這很像每天都在跟自己簽約"
+      },
+      {
+        "start": 474.9,
+        "end": 476.4,
+        "text": "違約又不用付違約金"
+      },
+      {
+        "start": 476.4,
+        "end": 478.233,
+        "text": "所以違約得特別輕鬆"
+      }
+    ]
+  },
+  {
+    "scene_id": 111,
+    "start": 478.666,
+    "end": 483.3,
+    "duration": 4.634,
+    "text": "一九六七年塞利格曼跟他的同事邁爾，做了一個很有名的實驗",
+    "image_prompt": "a clipboard with a dog paw print and an hourglass, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "sfx_keyword": "pop bright",
+    "sfx_type": "rhythm",
+    "sfx_offset": 2.7,
+    "cues": [
+      {
+        "start": 478.666,
+        "end": 481.3,
+        "text": "一九六七年塞利格曼跟他的同事邁爾"
+      },
+      {
+        "start": 481.3,
+        "end": 483.033,
+        "text": "做了一個很有名的實驗"
+      }
+    ]
+  },
+  {
+    "scene_id": 112,
+    "start": 483.3,
+    "end": 488.8,
+    "duration": 5.5,
+    "text": "狗先被放在逃不掉的電擊裡，後來換到，只要跳過去就能逃走的環境",
+    "image_prompt": "a dog lying down in a low-walled box with a small hurdle in the middle and a lightning bolt symbol on the floor, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "sfx_keyword": "dog whimper",
+    "cues": [
+      {
+        "start": 483.3,
+        "end": 485.7,
+        "text": "狗先被放在逃不掉的電擊裡"
+      },
+      {
+        "start": 485.7,
+        "end": 486.366,
+        "text": "後來換到"
+      },
+      {
+        "start": 486.366,
+        "end": 488.666,
+        "text": "只要跳過去就能逃走的環境"
+      }
+    ]
+  },
+  {
+    "scene_id": 113,
+    "start": 488.8,
+    "end": 493.666,
+    "duration": 4.866,
+    "text": "大約三分之二的狗連試都不試，直接趴著挨電",
+    "image_prompt": "a pie chart with two thirds filled by dog paw icons, a dog lying flat beside it, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 488.8,
+        "end": 491.733,
+        "text": "大約三分之二的狗連試都不試"
+      },
+      {
+        "start": 491.733,
+        "end": 493.233,
+        "text": "直接趴著挨電"
+      }
+    ]
+  },
+  {
+    "scene_id": 114,
+    "start": 493.666,
+    "end": 499.966,
+    "duration": 6.3,
+    "text": "那一刻出口明明就在眼前，這就是大家熟悉的習得無助",
+    "image_prompt": "a dog lying down beside an open door with a bright exit sign, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "sfx_keyword": "impact hit",
+    "sfx_type": "rhythm",
+    "sfx_offset": 5.9,
+    "cues": [
+      {
+        "start": 493.666,
+        "end": 497.0,
+        "text": "那一刻出口明明就在眼前"
+      },
+      {
+        "start": 497.133,
+        "end": 499.766,
+        "text": "這就是大家熟悉的習得無助"
+      }
+    ]
+  },
+  {
+    "scene_id": 115,
+    "start": 499.966,
+    "end": 504.4,
+    "duration": 4.434,
+    "text": "但是二零一六年，邁爾和，塞利格曼聯手發表了一篇論文",
+    "image_prompt": "two scientific papers side by side, one with a red (#D32F2F) overturn arrow, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 499.966,
+        "end": 501.4,
+        "text": "但是二零一六年"
+      },
+      {
+        "start": 501.4,
+        "end": 501.933,
+        "text": "邁爾和"
+      },
+      {
+        "start": 501.933,
+        "end": 504.3,
+        "text": "塞利格曼聯手發表了一篇論文"
+      }
+    ]
+  },
+  {
+    "scene_id": 116,
+    "start": 504.4,
+    "end": 509.3,
+    "duration": 4.9,
+    "text": "推翻了自己當年的解釋，他們說原本的理論搞反了",
+    "image_prompt": "a theory diagram flipped upside down by a large red (#D32F2F) arrow, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "sfx_keyword": "record scratch",
+    "sfx_type": "rhythm",
+    "sfx_offset": 1.8,
+    "cues": [
+      {
+        "start": 504.4,
+        "end": 506.266,
+        "text": "推翻了自己當年的解釋"
+      },
+      {
+        "start": 506.566,
+        "end": 509.066,
+        "text": "他們說原本的理論搞反了"
+      }
+    ]
+  },
+  {
+    "scene_id": 117,
+    "start": 509.3,
+    "end": 513.933,
+    "duration": 4.633,
+    "text": "面對無法控制的痛苦，什麼都不做是大腦本來的預設反應",
+    "image_prompt": "a brain icon with a red (#D32F2F) pause button pressed, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "sfx_keyword": "magic",
+    "sfx_type": "rhythm",
+    "sfx_offset": 4.23,
+    "cues": [
+      {
+        "start": 509.3,
+        "end": 510.733,
+        "text": "面對無法控制的痛苦"
+      },
+      {
+        "start": 510.733,
+        "end": 513.933,
+        "text": "什麼都不做是大腦本來的預設反應"
+      }
+    ]
+  },
+  {
+    "scene_id": 118,
+    "start": 513.933,
+    "end": 519.266,
+    "duration": 5.333,
+    "text": "不用學真正需要學的，是我有辦法控制這件事",
+    "image_prompt": "a brain icon with a green (#43A047) steering wheel, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 513.933,
+        "end": 516.5,
+        "text": "不用學真正需要學的"
+      },
+      {
+        "start": 516.5,
+        "end": 518.766,
+        "text": "是我有辦法控制這件事"
+      }
+    ]
+  },
+  {
+    "scene_id": 119,
+    "start": 519.266,
+    "end": 524.4,
+    "duration": 5.134,
+    "text": "這是動物實驗，我不會說你跟那隻狗一樣，但是我讀到這裡",
+    "image_prompt": "a dog silhouette and a person silhouette with an equals sign crossed out by a red (#D32F2F) X, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "sfx_keyword": "wrong buzzer",
+    "sfx_type": "rhythm",
+    "sfx_offset": 2.2,
+    "cues": [
+      {
+        "start": 519.266,
+        "end": 520.6,
+        "text": "這是動物實驗"
+      },
+      {
+        "start": 520.9,
+        "end": 522.966,
+        "text": "我不會說你跟那隻狗一樣"
+      },
+      {
+        "start": 523.1,
+        "end": 524.4,
+        "text": "但是我讀到這裡"
+      }
+    ]
+  },
+  {
+    "scene_id": 120,
+    "start": 524.4,
+    "end": 530.966,
+    "duration": 6.566,
+    "text": "腦中冒出一個很不舒服的想法，這是我自己的推論，論文沒有這樣寫",
+    "image_prompt": "a dim gray (#546E7A) lightbulb with a wavy uneasy line and a small pencil speech bubble, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 524.4,
+        "end": 527.1,
+        "text": "腦中冒出一個很不舒服的想法"
+      },
+      {
+        "start": 527.333,
+        "end": 529.066,
+        "text": "這是我自己的推論"
+      },
+      {
+        "start": 529.166,
+        "end": 530.633,
+        "text": "論文沒有這樣寫"
+      }
+    ]
+  },
+  {
+    "scene_id": 121,
+    "start": 530.966,
+    "end": 535.966,
+    "duration": 5.0,
+    "text": "如果放棄是預設值，那你每放棄一次，就是讓預設值多贏一場",
+    "image_prompt": "a scoreboard with a growing tally of marks and a big gray (#546E7A) default button icon, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 530.966,
+        "end": 532.466,
+        "text": "如果放棄是預設值"
+      },
+      {
+        "start": 532.466,
+        "end": 533.566,
+        "text": "那你每放棄一次"
+      },
+      {
+        "start": 533.566,
+        "end": 535.7,
+        "text": "就是讓預設值多贏一場"
+      }
+    ]
+  },
+  {
+    "scene_id": 122,
+    "start": 535.966,
+    "end": 542.566,
+    "duration": 6.6,
+    "text": "久了你看到朋友做出成績，反應會很平靜，心想那種事本來就輪不到我",
+    "image_prompt": "a young woman with short black hair in a navy (#1565C0) sweater standing far from a small podium with a trophy, flat calm mouth and neutral eyebrows, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 535.966,
+        "end": 538.2,
+        "text": "久了你看到朋友做出成績"
+      },
+      {
+        "start": 538.2,
+        "end": 539.466,
+        "text": "反應會很平靜"
+      },
+      {
+        "start": 539.533,
+        "end": 542.233,
+        "text": "心想那種事本來就輪不到我"
+      }
+    ]
+  },
+  {
+    "scene_id": 123,
+    "start": 542.566,
+    "end": 548.666,
+    "duration": 6.1,
+    "text": "這種平靜才是警訊，這就是為什麼我覺得它最危險，因為它一點都不痛",
+    "image_prompt": "a flat straight line on a heart monitor screen, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "sfx_keyword": "impact hit",
+    "sfx_type": "rhythm",
+    "sfx_offset": 1.9,
+    "cues": [
+      {
+        "start": 542.566,
+        "end": 544.8,
+        "text": "這種平靜才是警訊"
+      },
+      {
+        "start": 545.1,
+        "end": 547.066,
+        "text": "這就是為什麼我覺得它最危險"
+      },
+      {
+        "start": 547.066,
+        "end": 548.466,
+        "text": "因為它一點都不痛"
+      }
+    ]
+  },
+  {
+    "scene_id": 124,
+    "start": 548.666,
+    "end": 555.0,
+    "duration": 6.334,
+    "text": "還好這個預設值是可以被壓下來的，邁爾他們發現，先有過掌控經驗的動物",
+    "image_prompt": "a hand pressing down a coiled spring, a small green (#43A047) check beside it, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "sfx_keyword": "spring bounce",
+    "cues": [
+      {
+        "start": 548.666,
+        "end": 551.566,
+        "text": "還好這個預設值是可以被壓下來的"
+      },
+      {
+        "start": 551.566,
+        "end": 552.733,
+        "text": "邁爾他們發現"
+      },
+      {
+        "start": 552.733,
+        "end": 555.0,
+        "text": "先有過掌控經驗的動物"
+      }
+    ]
+  },
+  {
+    "scene_id": 125,
+    "start": 555.0,
+    "end": 560.0,
+    "duration": 5.0,
+    "text": "後來比較不容易陷進無助 好，氣氛有點沉重",
+    "image_prompt": "a dog jumping freely over a low hurdle beside a green (#43A047) lever, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "sfx_keyword": "dog bark",
+    "cues": [
+      {
+        "start": 555.0,
+        "end": 558.1,
+        "text": "後來比較不容易陷進無助 好"
+      },
+      {
+        "start": 558.166,
+        "end": 559.8,
+        "text": "氣氛有點沉重"
+      }
+    ]
+  },
+  {
+    "scene_id": 126,
+    "start": 560.0,
+    "end": 565.9,
+    "duration": 5.9,
+    "text": "來點能動手的解法我分成四個，剛好對應剛剛的四種人",
+    "image_prompt": "an open toolbox with four small tool icons in a row, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "sfx_keyword": "ui click",
+    "sfx_type": "rhythm",
+    "sfx_offset": 5.5,
+    "cues": [
+      {
+        "start": 560.0,
+        "end": 563.5,
+        "text": "來點能動手的解法我分成四個"
+      },
+      {
+        "start": 563.533,
+        "end": 565.8,
+        "text": "剛好對應剛剛的四種人"
+      }
+    ]
+  },
+  {
+    "scene_id": 127,
+    "start": 565.9,
+    "end": 572.166,
+    "duration": 6.266,
+    "text": "每一個都很小，小到你馬上就可以開始做，先講永遠在準備的人",
+    "image_prompt": "a tiny seed in an open palm beside a green (#2E7D32) start button, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 565.9,
+        "end": 567.266,
+        "text": "每一個都很小"
+      },
+      {
+        "start": 567.466,
+        "end": 569.5,
+        "text": "小到你馬上就可以開始做"
+      },
+      {
+        "start": 569.766,
+        "end": 572.1,
+        "text": "先講永遠在準備的人"
+      }
+    ]
+  },
+  {
+    "scene_id": 128,
+    "start": 572.166,
+    "end": 577.266,
+    "duration": 5.1,
+    "text": "戈爾維策教授，研究了一種很簡單的做法，叫如果就會的計畫",
+    "image_prompt": "an if-then flowchart with two boxes joined by an arrow and a lightbulb above, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "sfx_keyword": "pop bright",
+    "sfx_type": "rhythm",
+    "sfx_offset": 0.8,
+    "cues": [
+      {
+        "start": 572.166,
+        "end": 573.366,
+        "text": "戈爾維策教授"
+      },
+      {
+        "start": 573.366,
+        "end": 575.066,
+        "text": "研究了一種很簡單的做法"
+      },
+      {
+        "start": 575.066,
+        "end": 576.9,
+        "text": "叫如果就會的計畫"
+      }
+    ]
+  },
+  {
+    "scene_id": 129,
+    "start": 577.266,
+    "end": 582.533,
+    "duration": 5.267,
+    "text": "意思是先決定如果某個情境發生，我就馬上做某件事",
+    "image_prompt": "a flowchart with a cloud in the left box, an arrow to a hand pressing a button in the right box, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 577.266,
+        "end": 580.366,
+        "text": "意思是先決定如果某個情境發生"
+      },
+      {
+        "start": 580.366,
+        "end": 582.3,
+        "text": "我就馬上做某件事"
+      }
+    ]
+  },
+  {
+    "scene_id": 130,
+    "start": 582.533,
+    "end": 589.0,
+    "duration": 6.467,
+    "text": "二零零六年他跟共同作者整理了九十四個研究，發現這種計畫對達成目標有中等",
+    "image_prompt": "a stack of ninety-four tiny papers beside a tall green (#2E7D32) bar, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 582.533,
+        "end": 586.433,
+        "text": "二零零六年他跟共同作者整理了九十四個研究"
+      },
+      {
+        "start": 586.533,
+        "end": 589.0,
+        "text": "發現這種計畫對達成目標有中等"
+      }
+    ]
+  },
+  {
+    "scene_id": 131,
+    "start": 589.0,
+    "end": 594.0,
+    "duration": 5.0,
+    "text": "偏大的幫助，二零二四年又整理了六百四十二個測試",
+    "image_prompt": "a taller stack of papers beside an even taller green (#2E7D32) bar, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 589.0,
+        "end": 590.3,
+        "text": "偏大的幫助"
+      },
+      {
+        "start": 590.7,
+        "end": 593.9,
+        "text": "二零二四年又整理了六百四十二個測試"
+      }
+    ]
+  },
+  {
+    "scene_id": 132,
+    "start": 594.0,
+    "end": 598.666,
+    "duration": 4.666,
+    "text": "結論一致，而且寫成如果就會格式的效果更好",
+    "image_prompt": "a green (#43A047) check mark beside a glowing if-then card, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 594.0,
+        "end": 595.166,
+        "text": "結論一致"
+      },
+      {
+        "start": 595.166,
+        "end": 598.6,
+        "text": "而且寫成如果就會格式的效果更好"
+      }
+    ]
+  },
+  {
+    "scene_id": 133,
+    "start": 598.666,
+    "end": 604.7,
+    "duration": 6.034,
+    "text": "你可以這樣寫如果我今天洗完澡，我就打開檔案，先做十分鐘",
+    "image_prompt": "a towel on a hook beside a laptop opening a file window with a ten minute timer, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "sfx_keyword": "timer ticking",
+    "cues": [
+      {
+        "start": 598.666,
+        "end": 601.666,
+        "text": "你可以這樣寫如果我今天洗完澡"
+      },
+      {
+        "start": 601.666,
+        "end": 603.066,
+        "text": "我就打開檔案"
+      },
+      {
+        "start": 603.066,
+        "end": 604.566,
+        "text": "先做十分鐘"
+      }
+    ]
+  },
+  {
+    "scene_id": 134,
+    "start": 604.7,
+    "end": 608.866,
+    "duration": 4.166,
+    "text": "十分鐘的重點在開始，做完與否都沒關係",
+    "image_prompt": "a stopwatch with its start button highlighted in yellow (#FFC107), Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 604.7,
+        "end": 606.833,
+        "text": "十分鐘的重點在開始"
+      },
+      {
+        "start": 607.066,
+        "end": 608.7,
+        "text": "做完與否都沒關係"
+      }
+    ]
+  },
+  {
+    "scene_id": 135,
+    "start": 608.866,
+    "end": 613.8,
+    "duration": 4.934,
+    "text": "你只是把什麼時候開工這個決定，先替明天的自己做掉",
+    "image_prompt": "a calendar page with a pre-ticked checkbox and a hand drawing the tick, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 608.866,
+        "end": 611.5,
+        "text": "你只是把什麼時候開工這個決定"
+      },
+      {
+        "start": 611.533,
+        "end": 613.6,
+        "text": "先替明天的自己做掉"
+      }
+    ]
+  },
+  {
+    "scene_id": 136,
+    "start": 613.8,
+    "end": 618.8,
+    "duration": 5.0,
+    "text": "厄廷根還建議，想完那些美好的畫面之後，馬上再問自己",
+    "image_prompt": "a thought bubble with a sunny picture, a hand turning it into a question mark, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "sfx_keyword": "small bell ding",
+    "sfx_type": "rhythm",
+    "sfx_offset": 4.6,
+    "cues": [
+      {
+        "start": 613.8,
+        "end": 615.066,
+        "text": "厄廷根還建議"
+      },
+      {
+        "start": 615.066,
+        "end": 617.333,
+        "text": "想完那些美好的畫面之後"
+      },
+      {
+        "start": 617.333,
+        "end": 618.8,
+        "text": "馬上再問自己"
+      }
+    ]
+  },
+  {
+    "scene_id": 137,
+    "start": 618.8,
+    "end": 623.4,
+    "duration": 4.6,
+    "text": "最可能擋住我的是什麼，然後把它也塞進同一句話裡",
+    "image_prompt": "a big gray (#546E7A) boulder on a path with a small arrow routing around it, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 618.8,
+        "end": 620.733,
+        "text": "最可能擋住我的是什麼"
+      },
+      {
+        "start": 620.733,
+        "end": 623.2,
+        "text": "然後把它也塞進同一句話裡"
+      }
+    ]
+  },
+  {
+    "scene_id": 138,
+    "start": 623.4,
+    "end": 628.333,
+    "duration": 4.933,
+    "text": "比如說如果我下班很累，就先去洗澡，而不是躺在沙發上滑手機",
+    "image_prompt": "a sofa with a smartphone marked by a red (#D32F2F) X and a shower head marked by a green (#2E7D32) check, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 623.4,
+        "end": 625.066,
+        "text": "比如說如果我下班很累"
+      },
+      {
+        "start": 625.066,
+        "end": 626.066,
+        "text": "就先去洗澡"
+      },
+      {
+        "start": 626.066,
+        "end": 628.233,
+        "text": "而不是躺在沙發上滑手機"
+      }
+    ]
+  },
+  {
+    "scene_id": 139,
+    "start": 628.333,
+    "end": 635.266,
+    "duration": 6.933,
+    "text": "再來是什麼都想要的人，我的建議是先選一個最上層的方向，至少給它一年",
+    "image_prompt": "a tall mountain with one flag, a one-year calendar beside it, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "sfx_keyword": "keyboard",
+    "sfx_type": "rhythm",
+    "sfx_offset": 0.3,
+    "cues": [
+      {
+        "start": 628.333,
+        "end": 630.366,
+        "text": "再來是什麼都想要的人"
+      },
+      {
+        "start": 630.533,
+        "end": 633.466,
+        "text": "我的建議是先選一個最上層的方向"
+      },
+      {
+        "start": 633.466,
+        "end": 634.9,
+        "text": "至少給它一年"
+      }
+    ]
+  },
+  {
+    "scene_id": 140,
+    "start": 635.266,
+    "end": 639.666,
+    "duration": 4.4,
+    "text": "想放棄的時候先換方法，方向留著",
+    "image_prompt": "a hand swapping a tool in a toolbox while a compass keeps pointing at the same flag, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 635.266,
+        "end": 638.133,
+        "text": "想放棄的時候先換方法"
+      },
+      {
+        "start": 638.133,
+        "end": 639.466,
+        "text": "方向留著"
+      }
+    ]
+  },
+  {
+    "scene_id": 141,
+    "start": 639.666,
+    "end": 644.166,
+    "duration": 4.5,
+    "text": "而且一定要做完一個完整的成品，才有資格決定要不要走",
+    "image_prompt": "a finished wrapped gift box with a green (#2E7D32) checkmark beside a finish flag, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 639.666,
+        "end": 641.8,
+        "text": "而且一定要做完一個完整的成品"
+      },
+      {
+        "start": 641.8,
+        "end": 643.866,
+        "text": "才有資格決定要不要走"
+      }
+    ]
+  },
+  {
+    "scene_id": 142,
+    "start": 644.166,
+    "end": 648.266,
+    "duration": 4.1,
+    "text": "不然你放棄的只是當下的情緒",
+    "image_prompt": "a storm cloud with a stressed face and a tiny lightning bolt, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "sfx_keyword": "thunder rumble",
+    "cues": [
+      {
+        "start": 644.166,
+        "end": 647.9,
+        "text": "不然你放棄的只是當下的情緒"
+      }
+    ]
+  },
+  {
+    "scene_id": 143,
+    "start": 648.266,
+    "end": 652.733,
+    "duration": 4.467,
+    "text": "你也可以拿一張紙，把過去三年放棄的事全部寫下來",
+    "image_prompt": "a blank sheet of paper and a pencil, a calendar showing three years, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 648.266,
+        "end": 649.733,
+        "text": "你也可以拿一張紙"
+      },
+      {
+        "start": 649.733,
+        "end": 652.566,
+        "text": "把過去三年放棄的事全部寫下來"
+      }
+    ]
+  },
+  {
+    "scene_id": 144,
+    "start": 652.733,
+    "end": 656.866,
+    "duration": 4.133,
+    "text": "你會發現，大部分放棄的理由長得很像",
+    "image_prompt": "a magnifier over three identical red (#D32F2F) cards that match, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "sfx_keyword": "magic",
+    "sfx_type": "rhythm",
+    "sfx_offset": 3.73,
+    "cues": [
+      {
+        "start": 652.733,
+        "end": 653.733,
+        "text": "你會發現"
+      },
+      {
+        "start": 653.733,
+        "end": 656.633,
+        "text": "大部分放棄的理由長得很像"
+      }
+    ]
+  },
+  {
+    "scene_id": 145,
+    "start": 656.866,
+    "end": 661.933,
+    "duration": 5.067,
+    "text": "第三太在意別人眼光的人，下次猶豫要不要發出去的時候",
+    "image_prompt": "a young woman with short black hair in a navy (#1565C0) sweater holding a phone, his thumb hesitating above the send button, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "sfx_keyword": "keyboard",
+    "sfx_type": "rhythm",
+    "sfx_offset": 0.3,
+    "cues": [
+      {
+        "start": 656.866,
+        "end": 659.666,
+        "text": "第三太在意別人眼光的人"
+      },
+      {
+        "start": 659.766,
+        "end": 661.933,
+        "text": "下次猶豫要不要發出去的時候"
+      }
+    ]
+  },
+  {
+    "scene_id": 146,
+    "start": 661.933,
+    "end": 666.533,
+    "duration": 4.6,
+    "text": "想一下那件短袖，大部分人其實沒空看你",
+    "image_prompt": "the portrait t-shirt next to a row of busy silhouettes each looking at their own phone, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 661.933,
+        "end": 663.566,
+        "text": "想一下那件短袖"
+      },
+      {
+        "start": 663.933,
+        "end": 666.2,
+        "text": "大部分人其實沒空看你"
+      }
+    ]
+  },
+  {
+    "scene_id": 147,
+    "start": 666.533,
+    "end": 671.4,
+    "duration": 4.867,
+    "text": "再加上吉洛維奇的遺憾研究，你現在怕的，是一個大概只有兩",
+    "image_prompt": "a balance scale with a small embarrassed face on one side and a huge gray (#546E7A) rain cloud on the other, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 666.533,
+        "end": 668.766,
+        "text": "再加上吉洛維奇的遺憾研究"
+      },
+      {
+        "start": 668.9,
+        "end": 670.266,
+        "text": "你現在怕的"
+      },
+      {
+        "start": 670.266,
+        "end": 671.4,
+        "text": "是一個大概只有兩"
+      }
+    ]
+  },
+  {
+    "scene_id": 148,
+    "start": 671.4,
+    "end": 676.966,
+    "duration": 5.566,
+    "text": "成的人會注意到的尷尬，換來的可能是很多年以後的後悔",
+    "image_prompt": "a small pie slice of twenty percent beside a sad cloud over a calendar of womany years, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 671.4,
+        "end": 673.366,
+        "text": "成的人會注意到的尷尬"
+      },
+      {
+        "start": 673.466,
+        "end": 676.766,
+        "text": "換來的可能是很多年以後的後悔"
+      }
+    ]
+  },
+  {
+    "scene_id": 149,
+    "start": 676.966,
+    "end": 683.0,
+    "duration": 6.034,
+    "text": "這筆帳真的不用算太久，你可以先從很小的公開動作開始",
+    "image_prompt": "an abacus beside a receipt with a short total, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 676.966,
+        "end": 680.033,
+        "text": "這筆帳真的不用算太久"
+      },
+      {
+        "start": 680.366,
+        "end": 683.0,
+        "text": "你可以先從很小的公開動作開始"
+      }
+    ]
+  },
+  {
+    "scene_id": 150,
+    "start": 683.0,
+    "end": 687.733,
+    "duration": 4.733,
+    "text": "發一篇大概沒人會看的貼文，看看世界有沒有崩塌",
+    "image_prompt": "a social media post card with zero likes beside an intact globe on a stand, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "sfx_keyword": "notification pop",
+    "cues": [
+      {
+        "start": 683.0,
+        "end": 685.466,
+        "text": "發一篇大概沒人會看的貼文"
+      },
+      {
+        "start": 685.533,
+        "end": 687.266,
+        "text": "看看世界有沒有崩塌"
+      }
+    ]
+  },
+  {
+    "scene_id": 151,
+    "start": 687.733,
+    "end": 691.6,
+    "duration": 3.867,
+    "text": "通常沒有，最後習慣性放棄自己的人",
+    "image_prompt": "a young woman with short black hair in a navy (#1565C0) sweater shrugging calmly, a globe intact beside him and a small green (#43A047) tick, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 687.733,
+        "end": 688.9,
+        "text": "通常沒有"
+      },
+      {
+        "start": 689.1,
+        "end": 691.4,
+        "text": "最後習慣性放棄自己的人"
+      }
+    ]
+  },
+  {
+    "scene_id": 152,
+    "start": 691.6,
+    "end": 695.933,
+    "duration": 4.333,
+    "text": "先把承諾縮小，今天打開檔案，只寫一句話",
+    "image_prompt": "a tiny file icon with a single text line and a small green (#43A047) flag, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 691.6,
+        "end": 692.966,
+        "text": "先把承諾縮小"
+      },
+      {
+        "start": 692.966,
+        "end": 694.3,
+        "text": "今天打開檔案"
+      },
+      {
+        "start": 694.3,
+        "end": 695.566,
+        "text": "只寫一句話"
+      }
+    ]
+  },
+  {
+    "scene_id": 153,
+    "start": 695.933,
+    "end": 700.766,
+    "duration": 4.833,
+    "text": "目的是讓說到做到變成你的新預設，每兌現一次",
+    "image_prompt": "a progress bar filling with green (#2E7D32) checks beside a small trophy, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 695.933,
+        "end": 699.066,
+        "text": "目的是讓說到做到變成你的新預設"
+      },
+      {
+        "start": 699.3,
+        "end": 700.766,
+        "text": "每兌現一次"
+      }
+    ]
+  },
+  {
+    "scene_id": 154,
+    "start": 700.766,
+    "end": 707.166,
+    "duration": 6.4,
+    "text": "就是在跟自己證明我辦得到，一個禮拜後再把承諾加大一點點",
+    "image_prompt": "stairs built from stacked green (#2E7D32) check blocks with a flag at the top, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 700.766,
+        "end": 704.266,
+        "text": "就是在跟自己證明我辦得到"
+      },
+      {
+        "start": 704.5,
+        "end": 707.166,
+        "text": "一個禮拜後再把承諾加大一點點"
+      }
+    ]
+  },
+  {
+    "scene_id": 155,
+    "start": 707.166,
+    "end": 713.7,
+    "duration": 6.534,
+    "text": "原則只有一個每一次都要讓自己贏，所以什麼樣的人高機率一事無成",
+    "image_prompt": "a gold (#FFC107) winner's podium with a flag, a big question mark fading above it, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "sfx_keyword": "question rise",
+    "sfx_type": "rhythm",
+    "sfx_offset": 6.13,
+    "cues": [
+      {
+        "start": 707.166,
+        "end": 710.2,
+        "text": "原則只有一個每一次都要讓自己贏"
+      },
+      {
+        "start": 710.6,
+        "end": 713.666,
+        "text": "所以什麼樣的人高機率一事無成"
+      }
+    ]
+  },
+  {
+    "scene_id": 156,
+    "start": 713.7,
+    "end": 718.3,
+    "duration": 4.6,
+    "text": "一直在準備，一直在換跑道，太在意別人的眼光",
+    "image_prompt": "four icons in a row: an hourglass, swirling arrows, a spotlight eye and a cracked heart, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "sfx_keyword": "ui click",
+    "sfx_type": "rhythm",
+    "sfx_offset": 4.2,
+    "cues": [
+      {
+        "start": 713.7,
+        "end": 715.033,
+        "text": "一直在準備"
+      },
+      {
+        "start": 715.066,
+        "end": 716.566,
+        "text": "一直在換跑道"
+      },
+      {
+        "start": 716.566,
+        "end": 718.3,
+        "text": "太在意別人的眼光"
+      }
+    ]
+  },
+  {
+    "scene_id": 157,
+    "start": 718.3,
+    "end": 723.2,
+    "duration": 4.9,
+    "text": "最後連自己都不相信的人，你不用今天就變成另一個人",
+    "image_prompt": "a young woman with short black hair in a navy (#1565C0) sweater looking down at a cracked mirror with a faded reflection, a calm arrow pointing forward, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, plain pure white background.",
+    "cues": [
+      {
+        "start": 718.3,
+        "end": 720.666,
+        "text": "最後連自己都不相信的人"
+      },
+      {
+        "start": 720.9,
+        "end": 723.166,
+        "text": "你不用今天就變成另一個人"
+      }
+    ]
+  },
+  {
+    "scene_id": 158,
+    "start": 723.2,
+    "end": 727.266,
+    "duration": 4.066,
+    "text": "今晚洗完澡，把你拖最久的那件事，打開十分鐘就好",
+    "image_prompt": "a young woman with short black hair in a navy (#1565C0) sweater sitting at a desk with a laptop and a small lamp, a file open and a ten minute timer, Ligne Claire comic style, uniform clean black outlines, flat color fills, minimal shading, no gradients, retro European illustration, flat dark blue (#283593) night background with a small moon and stars.",
+    "cues": [
+      {
+        "start": 723.2,
+        "end": 724.133,
+        "text": "今晚洗完澡"
+      },
+      {
+        "start": 724.133,
+        "end": 725.566,
+        "text": "把你拖最久的那件事"
+      },
+      {
+        "start": 725.566,
+        "end": 727.266,
+        "text": "打開十分鐘就好"
+      }
+    ]
+  }
+]

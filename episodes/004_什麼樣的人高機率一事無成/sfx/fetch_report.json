@@ -1,0 +1,481 @@
+[
+  {
+    "scene_id": 6,
+    "keyword": "wrong buzzer",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/wrong buzzer.mp3"
+  },
+  {
+    "scene_id": 7,
+    "keyword": "mouse click",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/mouse click.mp3"
+  },
+  {
+    "scene_id": 12,
+    "keyword": "mouse click",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/mouse click.mp3"
+  },
+  {
+    "scene_id": 15,
+    "keyword": "mouse click",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/mouse click.mp3"
+  },
+  {
+    "scene_id": 16,
+    "keyword": "pop bright",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/pop bright.wav"
+  },
+  {
+    "scene_id": 20,
+    "keyword": "ui click",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/ui click.wav"
+  },
+  {
+    "scene_id": 23,
+    "keyword": "mouse click",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/mouse click.mp3"
+  },
+  {
+    "scene_id": 25,
+    "keyword": "keyboard",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/keyboard.mp3"
+  },
+  {
+    "scene_id": 30,
+    "keyword": "cartoon boing",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/cartoon boing.mp3"
+  },
+  {
+    "scene_id": 34,
+    "keyword": "wrong buzzer",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/wrong buzzer.mp3"
+  },
+  {
+    "scene_id": 40,
+    "keyword": "pop bright",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/pop bright.wav"
+  },
+  {
+    "scene_id": 44,
+    "keyword": "magic",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/magic.mp3"
+  },
+  {
+    "scene_id": 47,
+    "keyword": "ui click",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/ui click.wav"
+  },
+  {
+    "scene_id": 53,
+    "keyword": "egg crack",
+    "used_keyword": "egg crack",
+    "found": true,
+    "file": "sfx/0053_429498.mp3",
+    "sound_id": 429498,
+    "name": "Quebrando um Ovo // Cracking an Egg (Studio)",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+    "duration": 8.06488,
+    "freesound_url": "https://freesound.org/people/Cabelin_Brabo/sounds/429498/"
+  },
+  {
+    "scene_id": 54,
+    "keyword": "keyboard",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/keyboard.mp3"
+  },
+  {
+    "scene_id": 55,
+    "keyword": "ui click",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/ui click.wav"
+  },
+  {
+    "scene_id": 57,
+    "keyword": "train passing",
+    "used_keyword": "train passing",
+    "found": true,
+    "file": "sfx/0057_530296.mp3",
+    "sound_id": 530296,
+    "name": "Train passing at high speed",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+    "duration": 12.28,
+    "freesound_url": "https://freesound.org/people/Sandermotions/sounds/530296/"
+  },
+  {
+    "scene_id": 59,
+    "keyword": "pop bright",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/pop bright.wav"
+  },
+  {
+    "scene_id": 61,
+    "keyword": "cartoon boing",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/cartoon boing.mp3"
+  },
+  {
+    "scene_id": 63,
+    "keyword": "ui click",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/ui click.wav"
+  },
+  {
+    "scene_id": 69,
+    "keyword": "flame flicker",
+    "used_keyword": "flame flicker",
+    "found": true,
+    "file": "sfx/0069_714566.mp3",
+    "sound_id": 714566,
+    "name": "Fire Crackling - Cozy Campfire & Fireplace SFX",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+    "duration": 5.0,
+    "freesound_url": "https://freesound.org/people/LilMati/sounds/714566/"
+  },
+  {
+    "scene_id": 70,
+    "keyword": "grinding metal",
+    "used_keyword": "grinding metal",
+    "found": true,
+    "file": "sfx/0070_743246.mp3",
+    "sound_id": 743246,
+    "name": "Move Stone Rune 4",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+    "duration": 0.217042,
+    "freesound_url": "https://freesound.org/people/qubodup/sounds/743246/"
+  },
+  {
+    "scene_id": 80,
+    "keyword": "pop bright",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/pop bright.wav"
+  },
+  {
+    "scene_id": 84,
+    "keyword": "wrong buzzer",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/wrong buzzer.mp3"
+  },
+  {
+    "scene_id": 85,
+    "keyword": "keyboard",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/keyboard.mp3"
+  },
+  {
+    "scene_id": 87,
+    "keyword": "door creak",
+    "used_keyword": "door creak",
+    "found": true,
+    "file": "sfx/0087_316876.mp3",
+    "sound_id": 316876,
+    "name": "Squeeky.wav",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+    "duration": 18.9872,
+    "freesound_url": "https://freesound.org/people/OldGuy67/sounds/316876/"
+  },
+  {
+    "scene_id": 89,
+    "keyword": "pop bright",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/pop bright.wav"
+  },
+  {
+    "scene_id": 91,
+    "keyword": "record scratch",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/record scratch.mp3"
+  },
+  {
+    "scene_id": 92,
+    "keyword": "giggle",
+    "used_keyword": "giggle",
+    "found": true,
+    "file": "sfx/0092_800973.mp3",
+    "sound_id": 800973,
+    "name": "Noises - Short laugh",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+    "duration": 2.20424,
+    "freesound_url": "https://freesound.org/people/Sadiquecat/sounds/800973/"
+  },
+  {
+    "scene_id": 93,
+    "keyword": "pop bright",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/pop bright.wav"
+  },
+  {
+    "scene_id": 97,
+    "keyword": "wrong buzzer",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/wrong buzzer.mp3"
+  },
+  {
+    "scene_id": 99,
+    "keyword": "small bell ding",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/small bell ding.wav"
+  },
+  {
+    "scene_id": 105,
+    "keyword": "warning beep",
+    "used_keyword": "warning beep",
+    "found": true,
+    "file": "sfx/0105_521849.mp3",
+    "sound_id": 521849,
+    "name": "alert1 : (50% distortion)",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+    "duration": 6.60989,
+    "freesound_url": "https://freesound.org/people/Tissman/sounds/521849/"
+  },
+  {
+    "scene_id": 106,
+    "keyword": "keyboard",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/keyboard.mp3"
+  },
+  {
+    "scene_id": 107,
+    "keyword": "cash register",
+    "used_keyword": "cash register",
+    "found": true,
+    "file": "sfx/0107_447454.mp3",
+    "sound_id": 447454,
+    "name": "counting coins",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+    "duration": 14.0587,
+    "freesound_url": "https://freesound.org/people/florianreichelt/sounds/447454/"
+  },
+  {
+    "scene_id": 108,
+    "keyword": "alarm clock",
+    "used_keyword": "alarm clock",
+    "found": true,
+    "file": "sfx/0108_182351.mp3",
+    "sound_id": 182351,
+    "name": "Alarm clock beep",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+    "duration": 1.49456,
+    "freesound_url": "https://freesound.org/people/Kesu/sounds/182351/"
+  },
+  {
+    "scene_id": 110,
+    "keyword": "paper tearing",
+    "used_keyword": "paper tearing",
+    "found": true,
+    "file": "sfx/0110_710162.mp3",
+    "sound_id": 710162,
+    "name": "Paper Rip 3",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+    "duration": 0.801088,
+    "freesound_url": "https://freesound.org/people/omgitsjo/sounds/710162/"
+  },
+  {
+    "scene_id": 111,
+    "keyword": "pop bright",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/pop bright.wav"
+  },
+  {
+    "scene_id": 112,
+    "keyword": "dog whimper",
+    "used_keyword": "dog whimper",
+    "found": true,
+    "file": "sfx/0112_635114.mp3",
+    "sound_id": 635114,
+    "name": "dog crying.wav",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+    "duration": 9.64296,
+    "freesound_url": "https://freesound.org/people/jocelynlopez/sounds/635114/"
+  },
+  {
+    "scene_id": 114,
+    "keyword": "impact hit",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/impact hit.wav"
+  },
+  {
+    "scene_id": 116,
+    "keyword": "record scratch",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/record scratch.mp3"
+  },
+  {
+    "scene_id": 117,
+    "keyword": "magic",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/magic.mp3"
+  },
+  {
+    "scene_id": 119,
+    "keyword": "wrong buzzer",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/wrong buzzer.mp3"
+  },
+  {
+    "scene_id": 123,
+    "keyword": "impact hit",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/impact hit.wav"
+  },
+  {
+    "scene_id": 124,
+    "keyword": "spring bounce",
+    "used_keyword": "spring bounce",
+    "found": true,
+    "file": "sfx/0124_404757.mp3",
+    "sound_id": 404757,
+    "name": "Retro video game sfx - Spring 3",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+    "duration": 0.941769,
+    "freesound_url": "https://freesound.org/people/OwlStorm/sounds/404757/"
+  },
+  {
+    "scene_id": 125,
+    "keyword": "dog bark",
+    "used_keyword": "dog bark",
+    "found": true,
+    "file": "sfx/0125_553188.mp3",
+    "sound_id": 553188,
+    "name": "Barking Dog",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+    "duration": 6.4707,
+    "freesound_url": "https://freesound.org/people/NachtmahrTV/sounds/553188/"
+  },
+  {
+    "scene_id": 126,
+    "keyword": "ui click",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/ui click.wav"
+  },
+  {
+    "scene_id": 128,
+    "keyword": "pop bright",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/pop bright.wav"
+  },
+  {
+    "scene_id": 133,
+    "keyword": "timer ticking",
+    "used_keyword": "timer ticking",
+    "found": true,
+    "file": "sfx/0133_487722.mp3",
+    "sound_id": 487722,
+    "name": "Ticking Timer 20 Sec.wav",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+    "duration": 20.0,
+    "freesound_url": "https://freesound.org/people/LilMati/sounds/487722/"
+  },
+  {
+    "scene_id": 136,
+    "keyword": "small bell ding",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/small bell ding.wav"
+  },
+  {
+    "scene_id": 139,
+    "keyword": "keyboard",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/keyboard.mp3"
+  },
+  {
+    "scene_id": 142,
+    "keyword": "thunder rumble",
+    "used_keyword": "thunder rumble",
+    "found": true,
+    "file": "sfx/0142_559804.mp3",
+    "sound_id": 559804,
+    "name": "Booming Thunder in Distance",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+    "duration": 18.0,
+    "freesound_url": "https://freesound.org/people/Fugeni/sounds/559804/"
+  },
+  {
+    "scene_id": 144,
+    "keyword": "magic",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/magic.mp3"
+  },
+  {
+    "scene_id": 145,
+    "keyword": "keyboard",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/keyboard.mp3"
+  },
+  {
+    "scene_id": 150,
+    "keyword": "notification pop",
+    "used_keyword": "notification pop",
+    "found": true,
+    "file": "sfx/0150_855481.mp3",
+    "sound_id": 855481,
+    "name": "UI Pack — Generative Sound by Glorb",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+    "duration": 2.57494,
+    "freesound_url": "https://freesound.org/people/bassimat/sounds/855481/"
+  },
+  {
+    "scene_id": 155,
+    "keyword": "question rise",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/question rise.wav"
+  },
+  {
+    "scene_id": 156,
+    "keyword": "ui click",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/ui click.wav"
+  }
+]

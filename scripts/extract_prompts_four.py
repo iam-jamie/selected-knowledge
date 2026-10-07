@@ -2,7 +2,7 @@ import json
 import sys
 from pathlib import Path
 
-HEADER = "Draw a four-panel comic. The content of the four panels is below (one panel per line break). Do not draw panel numbers, labels, or any explanatory text in the image, only the content itself: "
+HEADER = "Draw a four-panel comic, no grid lines. The content of the four panels is below (one panel per line break). Do not draw panel numbers, labels, or any explanatory text in the image, only the content itself: "
 LABELS = ["Top-left", "Top-right", "Bottom-left", "Bottom-right"]
 GROUP_SIZE = len(LABELS)
 

@@ -24,6 +24,11 @@ Zoom（拉 retention 用）：
   - 超過 --zoom-until 的分鏡走原本的快速路徑（concat demuxer 一次編碼）。
   - --no-zoom 完全關閉 zoom，行為和舊版一樣。
 
+音量：
+  - 旁白預設用兩遍式 loudnorm 標準化到 --target-lufs（預設 -16 LUFS），
+    linear 模式不壓縮動態；--no-loudnorm 可關閉。
+  - 音效先拉平再降到 --sfx-volume-db（預設 -18 dB），混音後加限幅器避免爆音。
+
 用法：
     python build_video.py \
         --storyboard storyboard.json \
@@ -32,6 +37,7 @@ Zoom（拉 retention 用）：
         [--sfx-map sfx_map.json] \
         [--width 1920] [--height 1080] [--fps 30] \
         [--no-zoom] [--zoom-until 60] [--max-zoom 1.05] [--zoom-seconds 1.0] \
+        [--target-lufs -16] [--no-loudnorm] [--sfx-volume-db -18] \
         [--output-dir output] [--output 自訂完整檔名.mp4]
 
 預設輸出到：{output-dir}/{narration 檔名去掉副檔名}_影片.mp4（output-dir 預設是 output/）
@@ -39,6 +45,7 @@ Zoom（拉 retention 用）：
 
 import argparse
 import json
+import re
 import subprocess
 import sys
 import tempfile
@@ -172,13 +179,14 @@ def build_concat_file(
     return concat_path
 
 
-def run(cmd: list[str]) -> None:
+def run(cmd: list[str]) -> subprocess.CompletedProcess:
     print("執行：", " ".join(cmd))
     result = subprocess.run(cmd, capture_output=True, text=True)
     if result.returncode != 0:
         print(result.stdout)
         print(result.stderr)
         raise RuntimeError(f"指令失敗：{' '.join(cmd)}")
+    return result
 
 
 def build_fast_video(
@@ -329,6 +337,38 @@ def build_silent_video(
     return silent_video_path
 
 
+def measure_loudnorm(
+    path: Path, target_lufs: float, true_peak: float
+) -> str | None:
+    """
+    loudnorm 第一遍：量旁白目前的響度，回傳第二遍要用的 filter 字串。
+    量不到（例如輸出格式異常）就回傳 None，由呼叫端退回單遍式。
+    """
+    result = run([
+        "ffmpeg", "-hide_banner", "-i", str(path),
+        "-af", f"loudnorm=I={target_lufs}:TP={true_peak}:LRA=11:print_format=json",
+        "-f", "null", "-",
+    ])
+    match = re.search(r"\{[^{}]*\"input_i\"[^{}]*\}", result.stderr, re.S)
+    if not match:
+        return None
+    try:
+        stats = json.loads(match.group(0))
+        print(
+            f"旁白原始響度：{stats['input_i']} LUFS，"
+            f"true peak {stats['input_tp']} dBTP"
+        )
+        return (
+            f"loudnorm=I={target_lufs}:TP={true_peak}:LRA=11:"
+            f"measured_I={stats['input_i']}:measured_TP={stats['input_tp']}:"
+            f"measured_LRA={stats['input_lra']}:"
+            f"measured_thresh={stats['input_thresh']}:"
+            f"offset={stats['target_offset']}:linear=true"
+        )
+    except (KeyError, ValueError):
+        return None
+
+
 def build_audio_track(
     scenes: list[dict],
     narration_path: Path,
@@ -337,35 +377,36 @@ def build_audio_track(
     max_sfx_seconds: float,
     sfx_volume_db: float,
     sfx_fade_seconds: float,
+    target_lufs: float | None = -16.0,
+    true_peak: float = -1.5,
 ) -> Path:
     """
-    把旁白當主音軌；若有 sfx_map 就把每個音效：
+    旁白當主音軌：
+      0. target_lufs 不是 None 時，先用兩遍式 loudnorm 把旁白標準化到目標響度
+         （linear 模式，不壓縮動態）。
+    若有 sfx_map，把每個音效：
       1. atrim 截斷到「分鏡時長」跟「max_sfx_seconds 上限」兩者取較短的那個
          （修正過去音效檔過長、蓋掉整段影片的問題）
       2. dynaudnorm 先拉平每個音效檔本身忽大忽小的音量（不同音效檔來源錄音音量差很多）
-      3. volume 再統一往下壓到比旁白小聲（預設 -8dB）
+      3. volume 再統一往下壓到比旁白小聲（預設 -18dB）
       4. afade 在截斷點前做短暫淡出，避免生硬喀一聲切斷
       5. adelay 對齊到分鏡開始的時間點
-    最後跟旁白 amix。
+    最後跟旁白 amix，再過一個限幅器（約 -1 dBFS）避免混音後爆音。
     """
     audio_out_path = tmp_dir / "final_audio.m4a"
 
-    if not sfx_map:
-        # 沒有音效，直接沿用旁白
-        cmd = [
-            "ffmpeg", "-y",
-            "-i", str(narration_path),
-            "-c:a", "aac",
-            str(audio_out_path),
-        ]
-        run(cmd)
-        return audio_out_path
+    narr_filter = "anull"
+    if target_lufs is not None:
+        narr_filter = measure_loudnorm(narration_path, target_lufs, true_peak) or (
+            f"loudnorm=I={target_lufs}:TP={true_peak}:LRA=11"
+        )
+    limiter = "alimiter=limit=0.89:level=disabled"
 
     scene_by_id = {str(s["scene_id"]): s for s in scenes}
 
     inputs = ["-i", str(narration_path)]
-    filter_parts = []
-    mix_labels = ["[0:a]"]
+    filter_parts = [f"[0:a]{narr_filter}[narr]"]
+    mix_labels = ["[narr]"]
 
     idx = 1
     for scene_id, sfx_path in sfx_map.items():
@@ -404,20 +445,21 @@ def build_audio_track(
         idx += 1
 
     if idx == 1:
-        # 全部音效檔都無效，退回純旁白
-        cmd = ["ffmpeg", "-y", "-i", str(narration_path), "-c:a", "aac", str(audio_out_path)]
-        run(cmd)
-        return audio_out_path
-
-    mix_filter = "".join(mix_labels) + f"amix=inputs={len(mix_labels)}:duration=first:normalize=0[aout]"
-    filter_complex = ";".join(filter_parts + [mix_filter])
+        # 沒有可用的音效，只輸出標準化後的旁白
+        filter_complex = ";".join(filter_parts + [f"[narr]{limiter}[aout]"])
+    else:
+        mix_filter = (
+            "".join(mix_labels)
+            + f"amix=inputs={len(mix_labels)}:duration=first:normalize=0,{limiter}[aout]"
+        )
+        filter_complex = ";".join(filter_parts + [mix_filter])
 
     cmd = [
         "ffmpeg", "-y",
         *inputs,
         "-filter_complex", filter_complex,
         "-map", "[aout]",
-        "-c:a", "aac",
+        "-c:a", "aac", "-b:a", "192k",
         str(audio_out_path),
     ]
     run(cmd)
@@ -490,14 +532,25 @@ def main():
     parser.add_argument(
         "--sfx-volume-db",
         type=float,
-        default=-8.0,
-        help="音效相對於旁白的音量調整（單位dB，負值變小聲，預設-8）",
+        default=-18.0,
+        help="音效相對於旁白的音量調整（單位dB，負值變小聲，預設-18）",
     )
     parser.add_argument(
         "--sfx-fade-seconds",
         type=float,
         default=0.3,
         help="音效結尾淡出秒數，避免生硬截斷（預設0.3秒）",
+    )
+    parser.add_argument(
+        "--target-lufs",
+        type=float,
+        default=-16.0,
+        help="旁白目標響度（LUFS），預設 -16；YouTube 參考值約 -14，想更響可設 -14",
+    )
+    parser.add_argument(
+        "--no-loudnorm",
+        action="store_true",
+        help="不調整旁白響度（沿用原音檔音量）",
     )
     args = parser.parse_args()
 
@@ -556,6 +609,7 @@ def main():
             max_sfx_seconds=args.max_sfx_seconds,
             sfx_volume_db=args.sfx_volume_db,
             sfx_fade_seconds=args.sfx_fade_seconds,
+            target_lufs=None if args.no_loudnorm else args.target_lufs,
         )
 
         print("合成最終影片...")
