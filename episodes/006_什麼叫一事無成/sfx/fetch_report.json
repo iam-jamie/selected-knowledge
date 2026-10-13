@@ -1,0 +1,598 @@
+[
+  {
+    "scene_id": 6,
+    "keyword": "small bell ding",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/small bell ding.wav"
+  },
+  {
+    "scene_id": 7,
+    "keyword": "mouse click",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/mouse click.mp3"
+  },
+  {
+    "scene_id": 11,
+    "keyword": "curious rise",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/curious rise.mp3"
+  },
+  {
+    "scene_id": 12,
+    "keyword": "mouse click",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/mouse click.mp3"
+  },
+  {
+    "scene_id": 14,
+    "keyword": "pop bright",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/pop bright.wav"
+  },
+  {
+    "scene_id": 17,
+    "keyword": "small bell ding",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/small bell ding.wav"
+  },
+  {
+    "scene_id": 18,
+    "keyword": "mouse click",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/mouse click.mp3"
+  },
+  {
+    "scene_id": 19,
+    "keyword": "ui click",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/ui click.wav"
+  },
+  {
+    "scene_id": 21,
+    "keyword": "ui click",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/ui click.wav"
+  },
+  {
+    "scene_id": 22,
+    "keyword": "ui click",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/ui click.wav"
+  },
+  {
+    "scene_id": 24,
+    "keyword": "ui click",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/ui click.wav"
+  },
+  {
+    "scene_id": 25,
+    "keyword": "ui click",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/ui click.wav"
+  },
+  {
+    "scene_id": 26,
+    "keyword": "ui click",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/ui click.wav"
+  },
+  {
+    "scene_id": 27,
+    "keyword": "pop bright",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/pop bright.wav"
+  },
+  {
+    "scene_id": 28,
+    "keyword": "pop bright",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/pop bright.wav"
+  },
+  {
+    "scene_id": 29,
+    "keyword": "wrong buzzer",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/wrong buzzer.mp3"
+  },
+  {
+    "scene_id": 30,
+    "keyword": "correct ding",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/correct ding.mp3"
+  },
+  {
+    "scene_id": 31,
+    "keyword": "impact hit",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/impact hit.wav"
+  },
+  {
+    "scene_id": 33,
+    "keyword": "pop bright",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/pop bright.wav"
+  },
+  {
+    "scene_id": 34,
+    "keyword": "small bell ding",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/small bell ding.wav"
+  },
+  {
+    "scene_id": 35,
+    "keyword": "keyboard",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/keyboard.mp3"
+  },
+  {
+    "scene_id": 36,
+    "keyword": "ui click",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/ui click.wav"
+  },
+  {
+    "scene_id": 37,
+    "keyword": "ui click",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/ui click.wav"
+  },
+  {
+    "scene_id": 39,
+    "keyword": "impact hit",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/impact hit.wav"
+  },
+  {
+    "scene_id": 40,
+    "keyword": "ui click",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/ui click.wav"
+  },
+  {
+    "scene_id": 42,
+    "keyword": "pop bright",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/pop bright.wav"
+  },
+  {
+    "scene_id": 49,
+    "keyword": "impact hit",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/impact hit.wav"
+  },
+  {
+    "scene_id": 50,
+    "keyword": "alarm clock",
+    "used_keyword": "alarm clock",
+    "found": true,
+    "file": "sfx/0050_182351.mp3",
+    "sound_id": 182351,
+    "name": "Alarm clock beep",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+    "duration": 1.49456,
+    "freesound_url": "https://freesound.org/people/Kesu/sounds/182351/"
+  },
+  {
+    "scene_id": 51,
+    "keyword": "pop bright",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/pop bright.wav"
+  },
+  {
+    "scene_id": 53,
+    "keyword": "curious rise",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/curious rise.mp3"
+  },
+  {
+    "scene_id": 54,
+    "keyword": "whoosh",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/whoosh.mp3"
+  },
+  {
+    "scene_id": 55,
+    "keyword": "question rise",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/question rise.wav"
+  },
+  {
+    "scene_id": 56,
+    "keyword": "pop bright",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/pop bright.wav"
+  },
+  {
+    "scene_id": 57,
+    "keyword": "pop bright",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/pop bright.wav"
+  },
+  {
+    "scene_id": 59,
+    "keyword": "ui click",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/ui click.wav"
+  },
+  {
+    "scene_id": 60,
+    "keyword": "ui click",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/ui click.wav"
+  },
+  {
+    "scene_id": 62,
+    "keyword": "ui click",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/ui click.wav"
+  },
+  {
+    "scene_id": 65,
+    "keyword": "ui click",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/ui click.wav"
+  },
+  {
+    "scene_id": 67,
+    "keyword": "ui click",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/ui click.wav"
+  },
+  {
+    "scene_id": 69,
+    "keyword": "small bell ding",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/small bell ding.wav"
+  },
+  {
+    "scene_id": 70,
+    "keyword": "wrong buzzer",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/wrong buzzer.mp3"
+  },
+  {
+    "scene_id": 72,
+    "keyword": "impact hit",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/impact hit.wav"
+  },
+  {
+    "scene_id": 74,
+    "keyword": "cartoon boing",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/cartoon boing.mp3"
+  },
+  {
+    "scene_id": 75,
+    "keyword": "small bell ding",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/small bell ding.wav"
+  },
+  {
+    "scene_id": 77,
+    "keyword": "ui click",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/ui click.wav"
+  },
+  {
+    "scene_id": 78,
+    "keyword": "ui click",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/ui click.wav"
+  },
+  {
+    "scene_id": 79,
+    "keyword": "ui click",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/ui click.wav"
+  },
+  {
+    "scene_id": 85,
+    "keyword": "impact hit",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/impact hit.wav"
+  },
+  {
+    "scene_id": 88,
+    "keyword": "fridge door",
+    "used_keyword": "fridge door",
+    "found": true,
+    "file": "sfx/0088_154460.mp3",
+    "sound_id": 154460,
+    "name": "Fridge Door open:close_1-2.aif",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+    "duration": 7.04871,
+    "freesound_url": "https://freesound.org/people/lucaslara/sounds/154460/"
+  },
+  {
+    "scene_id": 89,
+    "keyword": "phone notification",
+    "used_keyword": "phone notification",
+    "found": true,
+    "file": "sfx/0089_536748.mp3",
+    "sound_id": 536748,
+    "name": "Phone.ogg",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+    "duration": 0.4505,
+    "freesound_url": "https://freesound.org/people/egomassive/sounds/536748/"
+  },
+  {
+    "scene_id": 91,
+    "keyword": "impact hit",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/impact hit.wav"
+  },
+  {
+    "scene_id": 92,
+    "keyword": "record scratch",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/record scratch.mp3"
+  },
+  {
+    "scene_id": 93,
+    "keyword": "whoosh",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/whoosh.mp3"
+  },
+  {
+    "scene_id": 97,
+    "keyword": "ui click",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/ui click.wav"
+  },
+  {
+    "scene_id": 100,
+    "keyword": "pop bright",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/pop bright.wav"
+  },
+  {
+    "scene_id": 101,
+    "keyword": "pop bright",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/pop bright.wav"
+  },
+  {
+    "scene_id": 103,
+    "keyword": "magic",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/magic.mp3"
+  },
+  {
+    "scene_id": 104,
+    "keyword": "impact hit",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/impact hit.wav"
+  },
+  {
+    "scene_id": 107,
+    "keyword": "cartoon boing",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/cartoon boing.mp3"
+  },
+  {
+    "scene_id": 111,
+    "keyword": "impact hit",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/impact hit.wav"
+  },
+  {
+    "scene_id": 116,
+    "keyword": "small bell ding",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/small bell ding.wav"
+  },
+  {
+    "scene_id": 118,
+    "keyword": "impact hit",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/impact hit.wav"
+  },
+  {
+    "scene_id": 123,
+    "keyword": "ui click",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/ui click.wav"
+  },
+  {
+    "scene_id": 125,
+    "keyword": "pop bright",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/pop bright.wav"
+  },
+  {
+    "scene_id": 126,
+    "keyword": "pop bright",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/pop bright.wav"
+  },
+  {
+    "scene_id": 130,
+    "keyword": "curious rise",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/curious rise.mp3"
+  },
+  {
+    "scene_id": 131,
+    "keyword": "question rise",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/question rise.wav"
+  },
+  {
+    "scene_id": 136,
+    "keyword": "pop bright",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/pop bright.wav"
+  },
+  {
+    "scene_id": 138,
+    "keyword": "pop bright",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/pop bright.wav"
+  },
+  {
+    "scene_id": 139,
+    "keyword": "whoosh",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/whoosh.mp3"
+  },
+  {
+    "scene_id": 140,
+    "keyword": "ui click",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/ui click.wav"
+  },
+  {
+    "scene_id": 141,
+    "keyword": "ui click",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/ui click.wav"
+  },
+  {
+    "scene_id": 142,
+    "keyword": "ui click",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/ui click.wav"
+  },
+  {
+    "scene_id": 143,
+    "keyword": "ui click",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/ui click.wav"
+  },
+  {
+    "scene_id": 144,
+    "keyword": "ui click",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/ui click.wav"
+  },
+  {
+    "scene_id": 152,
+    "keyword": "curious rise",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/curious rise.mp3"
+  },
+  {
+    "scene_id": 155,
+    "keyword": "keyboard",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/keyboard.mp3"
+  },
+  {
+    "scene_id": 156,
+    "keyword": "ui click",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/ui click.wav"
+  },
+  {
+    "scene_id": 159,
+    "keyword": "ui click",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/ui click.wav"
+  },
+  {
+    "scene_id": 160,
+    "keyword": "ui click",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/ui click.wav"
+  },
+  {
+    "scene_id": 162,
+    "keyword": "ui click",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/ui click.wav"
+  },
+  {
+    "scene_id": 163,
+    "keyword": "ui click",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/ui click.wav"
+  },
+  {
+    "scene_id": 165,
+    "keyword": "small bell ding",
+    "sfx_type": "rhythm",
+    "found": true,
+    "file": "../../assets/sound_effect/small bell ding.wav"
+  }
+]
